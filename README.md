@@ -115,24 +115,6 @@ CholecT45/
 └── README.txt
 ```
 
-Notes:
-
-- CholecT45 contains 45 videos. This QA set covers 50 video IDs; the 45 CholecT45
-  videos are all present, and `VID92`, `VID96`, `VID103`, `VID110`, `VID111` are
-  outside the CholecT45 release (no frames are provided for them here either).
-- CholecT45 is released under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/);
-  please cite the dataset when using these questions:
-
-```bibtex
-@article{nwoye2022rendezvous,
-  title={Rendezvous: Attention Mechanisms for the Recognition of Surgical Action Triplets in Endoscopic Videos},
-  author={Nwoye, C. I. and Yu, T. and Gonzalez, C. and Seeliger, B. and Mascagni, P. and Mutter, D. and Marescaux, J. and Padoy, N.},
-  journal={Medical Image Analysis},
-  year={2022},
-  doi={10.1016/j.media.2022.102433}
-}
-```
-
 ---
 
 ## Regenerating the questions (optional)
