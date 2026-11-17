@@ -1,0 +1,290 @@
+What happened to the grasper right before the hook started clotting the blood vessel?|grasp|1|515|535|526|531
+What was the immediate preceding action of the hook prior to the grasper engaging with the gallbladder?|dissect|1|1197|1297|1199|1200
+What movement occurred right after the surgeon's gallbladder was retracted?|grasp|0|279|283|284|286
+What immediate action did the grasper take when the hook started dissection of the cystic duct?|grasp|1|902|943|917|923
+What movement did the grasper make as it severed the cystic artery?|grasp|2|1026|1035|980|1042
+Which instrument was used to dissect the cystic duct when the grasper was working on the gallbladder?|hook|2|939|963|902|943
+What movement occurred right after the surgeon grabbed the gallbladder?|grasp|0|284|286|288|301
+What movement occurred right after opening the cystic duct during surgery?|dissect|0|902|943|1048|1155
+What immediate action followed when the surgeon's instrument gripped the gallbladder?|grasp|0|1053|1053|1061|1064
+What action did the grasper perform when it severed the peritoneum?|grasp|2|290|325|288|301
+Which type of tissue came into contact with the hook right away during the dissection of the cystic duct?|gallbladder|0|902|943|1048|1155
+What was the scissors' immediate prior action before the hook started dissection of the gallbladder?|cut|1|1026|1035|1048|1155
+Which specific type of tissue did the hook remove during the procedure when the grasper held onto the gallbladder?|gallbladder|2|1094|1133|1048|1155
+Which instrument performed the task of dissecting the gallbladder while the grasper held onto the liver?|hook|2|1296|1297|1197|1297
+What specific movement occurred by the grasper prior to the bipolar's engagement with the cystic artery?|grasp|1|577|649|586|665
+What maneuver was executed by the hook prior to the grasper initiating its grip on the peritoneum?|cut|1|290|325|305|325
+Which specific type of tissue did the hook remove during the process where the grasper pulled out the gallbladder?|cystic_duct|2|896|899|856|899
+Which instrument held onto the gallbladder as the bipolar forceps were cutting through the cystic duct?|grasper|2|696|710|663|813
+During the procedure when the grasper held onto the gallbladder, what motion was the hook executing?|dissect|2|1094|1133|1048|1155
+What immediate action did the grasper take upon retraction of the liver?|grasp|0|1159|1191|1199|1200
+What happened right after the grasper held onto the gallbladder?|grasp|0|1255|1257|1296|1297
+What immediate action did the irrigator take when the grasper started retraction of the liver?|aspirate|1|1337|1337|1356|1361
+What immediate action did the bipolar take upon initiating dissection of the cystic duct?|dissect|1|734|780|788|810
+Immediately after retracting the liver, what type of tissue did the grasper come into contact with?|specimen_bag|0|1371|1372|1397|1413
+What specific tissue did the grasper contact right away when it clamped onto the gallbladder?|gallbladder|0|485|509|515|535
+Which specific tissue did the hook dissection target when the grasper held onto the gallbladder?|gallbladder|2|1091|1092|1048|1155
+What immediate action did the hook take when the grasper started to grasp the gallbladder?|dissect|1|838|895|856|899
+Which instrument was used to dissect the gallbladder when the grasper held onto it?|hook|2|1069|1072|1048|1155
+Which device was holding onto the gallbladder while the clamp was closing off the cystic duct?|grasper|2|956|989|939|963
+What happened right after the surgeon grabbed the gallbladder?|grasp|0|1069|1072|1082|1084
+Which instrument was used to dissect the gallbladder during the time when the grasper held onto it?|hook|2|1094|1133|1048|1155
+What action did the grasper take during the procedure where the clipper cut the cystic artery?|grasp|2|991|1002|980|1042
+Which instrument held the gallbladder during the procedure that clamped the cystic artery?|grasper|2|991|1002|980|1042
+What action did the hook take during the process of the grasper grabbing the intestine?|cut|2|226|229|217|272
+What specific type of tissue was directly contacted by the grasper once it held onto the gallbladder?|gallbladder|0|838|895|896|899
+What type of tissue did the grasper come into contact with right away when it grabbed the gallbladder?|gallbladder|0|273|278|279|283
+What specific movement was the hook executing during the time the grasper held onto the gallbladder?|dissect|2|1069|1072|1048|1155
+What type of tissue was directly contacted by the grasper as it held onto the liver?|liver|0|1301|1308|1337|1337
+What type of tissue did the grasping instrument contact right away when it removed the gallbladder?|gallbladder|0|470|473|485|509
+What type of tissue was directly manipulated by the graspers upon contacting the peritoneum?|gallbladder|0|305|325|326|469
+Which instrument was manipulating the peritoneum when the hook severed it?|grasper|2|290|325|288|301
+What type of tissue did the grasper hold onto during the dissection of the cystic duct?|gallbladder|2|532|576|515|535
+What immediate action did the grasper take when the hook started disassembling the gallbladder?|grasp|1|1197|1297|1199|1200
+Which type of tissue did the grasper manipulate when cutting through the peritoneum?|peritoneum|2|290|325|288|301
+Which instrument held the gallbladder during the bipolar's work on the cystic duct?|grasper|2|788|810|663|813
+What immediate action did the grasper take upon securing the liver?|retract|0|1296|1297|1298|1300
+What immediate action did the bipolar take upon removing the gallbladder?|dissect|0|691|695|696|710
+Which medical device held the gallbladder during the cystic artery surgery?|grasper|2|1026|1035|980|1042
+What immediate action did the grasper take upon capturing the gallbladder?|grasp|0|1061|1064|1069|1072
+What immediate action did the grasper take when packing the gallbladder?|grasp|0|1449|1453|1454|1464
+Before the grasper started to grasp the gallbladder, what movement was performed by the hook?|dissect|1|532|576|540|554
+What immediate action did the grasper take when it started cutting through the peritoneum?|grasp|1|217|272|226|229
+Which instrument was holding onto the gallbladder as the bipolar device was cutting the cystic artery?|grasper|2|586|665|577|649
+What happened right after the surgeon's graspers started holding onto the patient's gallbladder?|clip|1|939|963|956|989
+What immediate action did the grasper take upon capturing the gallbladder?|retract|0|838|895|896|899
+What action did the hook take during the gallbladder grasp?|dissect|2|1082|1084|1048|1155
+What action did the grasper perform during the dissection of the cystic duct?|grasp|2|788|810|663|813
+Which tool was used to retract the liver during the dissection of the gallbladder?|grasper|2|1190|1194|1159|1191
+What happened right away when the grasper picked up the gallbladder?|grasp|0|485|509|515|535
+What immediate action did the grasper take when the hook started to dissect the cystic duct?|grasp|1|532|576|540|554
+During which stage of the procedure did the hook engage with the gallbladder?|dissect|2|540|554|532|576
+What immediate action did the bipolar take when it dissected the cystic artery?|coagulate|0|586|665|667|668
+What activity did the grasper engage in during the procedure where the bipolar was cutting open the gallbladder?|grasp|2|691|695|663|813
+What happened right after the surgeon grabbed the gallbladder?|grasp|0|1094|1133|1138|1158
+Which instrument was holding onto the gallbladder as the hook was working on the cystic duct?|grasper|2|532|576|515|535
+What movement occurred right after the surgeon's instrument captured the intestines?|grasp|0|236|256|260|272
+Which instrument severed the peritoneum as the graspers held it?|hook|2|305|325|290|325
+What movement occurred just prior to the grasp performed by the grabber targeting the gallbladder?|dissect|1|902|943|917|923
+What movement did the grasper make as the hook worked on the cystic duct?|grasp|2|734|780|663|813
+Which surgical tool was used to dissect the cystic artery while the surgeon held the gallbladder?|bipolar|2|663|813|586|665
+What type of tissue was directly impacted by the incision through the peritoneum?|peritoneum|0|217|272|290|325
+What immediate action did the grasper take upon capturing the gallbladder?|retract|0|273|278|279|283
+What immediate post-peritoneal incision action occurred?|coagulate|0|290|325|526|531
+What task did the grasper perform during the clipper's operation of the cystic duct?|grasp|2|956|989|939|963
+Which instrument was used to clamp the cystic duct while the gainer held onto the gallbladder?|clipper|2|980|1042|956|989
+Which specific tissue did the hook manipulate during the procedure when the grasper held onto the gallbladder?|gallbladder|2|1082|1084|1048|1155
+Before the hook started dissection of the gallbladder, what was the grasper's immediate action?|retract|1|1159|1191|1171|1187
+What movement was the grasper making during the time the hook was cutting open the gallbladder?|retract|2|1171|1187|1159|1191
+Which type of tissue did the grasping device come into contact with first during the procedure?|specimen_bag|0|1414|1439|1440|1448
+What action did the grasper take just prior to the clipper starting its procedure on the cystic duct?|grasp|1|939|963|956|989
+During which step of the procedure did the hook perform its function?|dissect|2|1061|1064|1048|1155
+Which type of tissue did the grasper handle during the dissection of the cystic duct?|gallbladder|2|734|780|663|813
+What immediate action did the scissors take after cutting the cystic duct?|cut|0|1008|1025|1026|1035
+What type of tissue was the bipolar device in contact with right away during the dissection of the cystic artery?|blood_vessel|0|586|665|667|668
+What immediate action did the bipolar take upon closing the blood vessel?|dissect|0|667|668|691|695
+What immediate action did the grasper take when the irrigator started to suction?|retract|1|1356|1361|1371|1372
+What type of tissue did the grasper come into contact with right away when it gripped the gallbladder?|gallbladder|0|1234|1237|1255|1257
+What immediate action was taken by the hook once it started grabbing the peritoneum?|cut|1|201|210|217|272
+What type of tissue did the grasper come into contact with right away when it grabbed the peritoneum?|gut|0|201|210|226|229
+Which specific type of tissue was the grasp probe in contact with right away when it grabbed hold of the gallbladder?|gallbladder|0|1053|1053|1061|1064
+What happened right away when the surgeon grabbed the gallbladder?|grasp|0|1091|1092|1094|1133
+What motion did the hook execute when it held onto the gallbladder?|dissect|2|1199|1200|1197|1297
+What action did the hook take when it was holding onto the gallbladder?|dissect|2|1255|1257|1197|1297
+Which instrument severed the peritoneum while the graspers held onto the intestines?|hook|2|236|256|217|272
+What immediate action did the grasper take upon capturing the peritoneum?|grasp|0|260|272|273|278
+Which type of tissue was the grasping instrument initially in contact with upon capturing the intestine?|peritoneum|0|236|256|260|272
+What immediate action did the grasper take upon retraction of the liver?|grasp|0|1371|1372|1397|1413
+What immediate action did the grasper take upon capturing the gallbladder?|grasp|0|939|963|980|1042
+Which specific type of tissue did the grasper come into contact with right away when it clamped onto the intestine?|gut|0|226|229|236|256
+What type of tissue did the hook remove when the grasper held onto the gallbladder?|gallbladder|2|1069|1072|1048|1155
+What was the immediate preceding action of the hook prior to the grasper engaging with the gut?|cut|1|217|272|226|229
+Which type of tissue did the grasper contact first when it held onto the gallbladder?|gallbladder|0|577|649|663|813
+Immediately after grabbing the gallbladder, what type of tissue did the grasper come into contact with?|liver|0|1255|1257|1296|1297
+Before the hook started cutting the peritoneum, what specific action did the grasper take?|grasp|1|288|301|290|325
+What immediate action did the hook take once it started to grasp the peritoneum?|cut|1|288|301|290|325
+What immediate action did the grasper take upon successfully grabbing the gallbladder?|grasp|0|577|649|663|813
+What immediate action followed the initial grasp of the peritoneum?|grasp|0|201|210|226|229
+Which type of tissue did the hook manipulate as the grasper held onto the gallbladder?|gallbladder|2|1255|1257|1197|1297
+What action did the grasper perform during the dissection of the cystic duct?|grasp|2|856|899|838|895
+What was the bipolar doing when it grabbed the gallbladder?|dissect|2|663|813|586|665
+What immediate action did the grasper take upon securing the specimen bag?|pack|0|1397|1413|1414|1439
+Which type of tissue was directly manipulated by the grasper when packing the gallbladder?|specimen_bag|0|1449|1453|1454|1464
+Which instrument was used to dissect the cystic duct while the grasper retracted the gallbladder?|hook|2|896|899|856|899
+What immediate action did the grasper take upon capturing the gallbladder?|grasp|0|1234|1237|1255|1257
+Which instrument was used to dissect the gallbladder when a grasper held it?|hook|2|1138|1158|1048|1155
+What immediate action did the bipolar take prior to the grasper engaging with the gallbladder?|dissect|1|586|665|663|813
+What immediate action did the hook take after dissection of the gallbladder?|dissect|0|1190|1194|1197|1297
+What immediate action did the grasper take once the clipper started clipping the cystic duct?|grasp|1|956|989|980|1042
+What action preceded the irrigation of the fluid by the irrigator?|retract|1|1337|1337|1356|1361
+Which type of tissue did the hook sever during the process when the grasper held onto the intestine?|peritoneum|2|236|256|217|272
+Which specific type of tissue did the surgeon's grasp instrument come into contact with right away when it grabbed the gallbladder?|gallbladder|0|939|963|980|1042
+What immediate action did the clipper take upon the grasper initiating its grasp of the gallbladder?|clip|1|980|1042|991|1002
+Which instrument was used to dissect around the cystic duct while the grasper held onto the gallbladder?|hook|2|561|567|532|576
+What movement did the grasper make during the gallbladder dissection?|retract|2|1190|1194|1159|1191
+What specific motion did the hook make during the process of holding onto the gallbladder?|dissect|2|1234|1237|1197|1297
+What immediate action did the bipolar take prior to the grasper grabbing the gallbladder?|dissect|1|788|810|838|895
+What type of tissue did the grasper hold during the bipolar's work on the cystic duct?|gallbladder|2|788|810|663|813
+What immediate action did the grasper take upon retraction of the gallbladder?|grasp|0|150|162|184|184
+What type of tissue did the grasper come into contact with first when it grabbed the gallbladder?|gallbladder|0|663|813|838|895
+What activity did the hook engage in during the process of grasping the peritoneum?|cut|2|260|272|217|272
+What specific type of tissue came into contact first when I was working with the cystic duct during dissection?|cystic_duct|0|734|780|856|899
+What specific movement occurred right after cutting open the cystic duct?|dissect|0|856|899|902|943
+Immediately after grabbing the liver, what type of tissue did the grasper come into contact with?|liver|0|1296|1297|1298|1300
+Before the hook started dissecting the cystic duct, what was the bipolar's immediate action?|dissect|1|696|710|734|780
+Which instrument was manipulating the gallbladder during the dissection of the cystic duct?|grasper|2|734|780|663|813
+What immediate action did the hook take when the scissors started cutting the cystic artery?|dissect|1|1026|1035|1048|1155
+Which instrument was used to dissect the gallbladder when a grasper held it?|hook|2|1199|1200|1197|1297
+What type of tissue did the clippers remove from the cystic duct?|gallbladder|2|956|989|939|963
+What immediate action did the grasper take upon capturing the gallbladder?|grasp|0|515|535|540|554
+Which instrument performed the task of dissecting the cystic duct during the process where a grasper held onto the gallbladder?|hook|2|917|923|902|943
+Which specific type of tissue was engaged with first during the dissection of the cystic duct?|cystic_duct|0|532|576|734|780
+What immediate action followed when the grasper captured the gallbladder?|retract|0|1138|1158|1159|1191
+What immediate action did the hook take after dissection of the cystic duct?|dissect|0|532|576|734|780
+Which instrument was used to dissect the gallbladder alongside the grasper?|hook|2|1255|1257|1197|1297
+Which type of tissue did the hook penetrate when the grasper held onto the gallbladder?|gallbladder|2|1138|1158|1048|1155
+What motion did the hook execute when it held onto the peritoneum?|cut|2|305|325|290|325
+Which type of tissue did the grasper manipulate during the dissection of the gallbladder using the bipolar instrument?|gallbladder|2|691|695|663|813
+Which type of tissue did the grasper hold during the dissection of the cystic duct?|gallbladder|2|696|710|663|813
+What immediate action did the grasper take upon removing the gallbladder?|grasp|0|470|473|485|509
+Which type of tissue did the hook explore during the time when the clamp held onto the gallbladder?|cystic_duct|2|939|963|902|943
+Which instrument was used to dissect the gallbladder during the procedure where a grasper held it?|hook|2|1234|1237|1197|1297
+Which type of tissue came into contact with the specimen bag right after it was grasped by the grasper?|gallbladder|0|1397|1413|1414|1439
+What type of tissue was directly engaged by the grasper as it held onto the gallbladder?|gallbladder|0|1199|1200|1234|1237
+What immediate action did the bipolar take after cutting open the cystic duct?|dissect|0|696|710|788|810
+Immediately after dissection of the cystic duct, what type of tissue did the hook come into contact with?|cystic_duct|0|856|899|902|943
+What specific action did the hook take right away when the grasper started pulling back the liver?|dissect|1|1159|1191|1171|1187
+What immediate action did the grasper take after retraction of the liver?|grasp|0|1298|1300|1301|1308
+Immediately after retraction of the gallbladder, what tissue did the grasper come into contact with?|peritoneum|0|150|162|184|184
+What immediate action did the grasper take after retraction of the gallbladder?|grasp|0|896|899|917|923
+What immediate action does the grasper take upon grabbing the gallbladder?|grasp|0|663|813|838|895
+What type of tissue was directly contacted by the grasper when it retracted the liver?|liver|0|1337|1337|1371|1372
+What immediate action did the grasper take prior to the hook engaging with the cystic duct?|grasp|1|838|895|856|899
+What movement occurred by the grasper right after the hook started to dissect the cystic duct?|retract|1|856|899|896|899
+Before the scissors started cutting the cystic duct, what happened to the clipper?|clip|1|991|1002|1008|1025
+Which tool was holding onto the gallbladder while the hook was working on the cystic duct?|grasper|2|856|899|838|895
+What immediate action followed dissecting the gallbladder?|dissect|0|1048|1155|1171|1187
+Which type of tissue did the grasper come into contact with right away when it grabbed the gallbladder?|liver|0|1138|1158|1159|1191
+What type of tissue did the graspers come into contact with right away when they grabbed the gallbladder?|gallbladder|0|561|567|577|649
+Which specific type of tissue was directly affected by the bipolar device when it sealed off the blood vessel?|gallbladder|0|667|668|691|695
+What instrument did you use to make a cut through the peritoneum when you were using the grasper for that purpose?|hook|2|260|272|217|272
+What immediate action did the hook take once the grasper had successfully grasped the gallbladder?|coagulate|1|515|535|526|531
+What was the immediate preceding action of the grasper before it started cutting the peritoneum?|grasp|1|201|210|217|272
+Which specific tissue did the grasping instrument come into contact with right after removing the gallbladder?|gallbladder|0|896|899|917|923
+Which specific type of tissue was directly engaged by the grasper when it captured the gallbladder?|gallbladder|0|515|535|540|554
+What type of tissue did the grasper target when the scissors were cutting the cystic duct?|gallbladder|2|1008|1025|980|1042
+What action did the hook take during the process of grasping the liver?|dissect|2|1296|1297|1197|1297
+Which specific type of tissue did the grasper come into contact with right away when it captured the gallbladder?|peritoneum|0|284|286|288|301
+What action did the grasper take during the cystic artery dissection using the bipolar device?|grasp|2|586|665|577|649
+What type of tissue did the grasper hold onto as it constricted the blood vessel?|gallbladder|2|526|531|515|535
+What specific action did the grasper perform during the procedure when the bipolar instrument was cutting through the cystic duct?|grasp|2|696|710|663|813
+What immediate action did the grasper take upon capturing the specimen bag?|grasp|0|1454|1464|1502|1506
+Which type of tissue did the hook penetrate as the grasper held onto the gallbladder?|gallbladder|2|1234|1237|1197|1297
+What immediate action did the bipolar take when it started to grasp the gallbladder?|dissect|1|577|649|586|665
+What type of tissue did the hook remove during the process where the grasper held onto the gallbladder?|gallbladder|2|1199|1200|1197|1297
+Which specific type of tissue did the hook incise as the grasper held onto the peritoneum?|peritoneum|2|260|272|217|272
+Which instrument held onto the gallbladder as the scalpel sliced through the cystic duct?|grasper|2|1008|1025|980|1042
+What specific type of tissue did the hook come into contact with right away when working on the gallbladder during dissection?|gallbladder|0|1048|1155|1171|1187
+What maneuver did the hook execute during the process of repositioning the gallbladder?|dissect|2|896|899|856|899
+What happened to the scissors right away when the clipper started cutting the cystic artery?|cut|1|991|1002|1008|1025
+Which specific type of tissue did the grasper come into contact with right away when it grabbed the gallbladder?|gallbladder|0|1082|1084|1091|1092
+What type of tissue did the grasper hold as the clipper worked on the cystic artery?|gallbladder|2|991|1002|980|1042
+Which specific tissue came into contact with the omentum as soon as it was grabbed by the grasper?|gallbladder|0|129|136|150|162
+Which type of tissue did the hook penetrate when the grasper held onto the gallbladder?|cystic_duct|2|561|567|532|576
+What type of tissue did the grasper handle during the dissection of the cystic artery?|gallbladder|2|586|665|577|649
+Before the hook started dissecting the cystic duct, what action did the grasper take?|retract|1|896|899|902|943
+What type of tissue did the scalpel remove during surgery?|gallbladder|2|1026|1035|980|1042
+What specific action did the hook take during the process of grasping the gallbladder?|dissect|2|1053|1053|1048|1155
+Which type of tissue did the hook penetrate as the grasper held onto the gallbladder?|cystic_duct|2|540|554|532|576
+What immediate action did the grasper take upon contacting the peritoneum?|grasp|0|184|184|201|210
+Which type of tissue did the grasper come into contact with first when it grabbed onto the gallbladder?|gallbladder|0|917|923|939|963
+Which tool was used to dissect the gallbladder when the grasper held onto it?|hook|2|1082|1084|1048|1155
+What specific movement was the hook making as it held onto the gallbladder?|dissect|2|939|963|902|943
+What movement occurred right after the surgeon grabbed the liver?|retract|0|1301|1308|1337|1337
+What immediate action did the hook take upon severing the peritoneum?|cut|0|217|272|290|325
+What movement followed when the grasper captured the intestine?|grasp|0|226|229|236|256
+What immediate action was taken by the hook during the dissection of the cystic duct?|dissect|1|696|710|734|780
+What action did the hook perform when it was holding onto the intestine?|cut|2|236|256|217|272
+What type of tissue did the grasper touch right away when it grabbed the peritoneum?|gallbladder|0|260|272|273|278
+Which instrument was used to dissect the cystic duct as the grasper held onto the gallbladder?|hook|2|540|554|532|576
+During the procedure, which specific tissue did the grasper hold as the bipolar device was used to seal off the blood vessel?|gallbladder|2|667|668|663|813
+What immediate action did the bipolar take when it started clamping onto the gallbladder?|coagulate|1|663|813|667|668
+Which type of tissue did the hook penetrate when it was used to hold onto the intestine?|peritoneum|2|226|229|217|272
+What was the immediate preceding motion of the hook prior to the grasper pulling out the gallbladder?|dissect|1|856|899|896|899
+What immediate action followed the gallbladder's capture by the grasper?|grasp|0|561|567|577|649
+Immediately after dissecting the gallbladder, what type of tissue did the hook come into contact with?|gallbladder|0|1190|1194|1197|1297
+What movement occurred right away when the grasping instrument started pulling out the gallbladder?|dissect|1|896|899|902|943
+What immediate action did the grasper take upon capturing the specimen bag?|pack|0|1440|1448|1449|1453
+Which type of tissue came into contact with the scissors right after cutting the cystic duct?|cystic_artery|0|1008|1025|1026|1035
+Which specific type of tissue did the instrument touch right away upon capturing the gallbladder?|gallbladder|0|326|469|470|473
+Which instrument held the gallbladder during the process of coagulating the blood vessel with a hook?|grasper|2|526|531|515|535
+What movement occurred right after the surgeon's hand grabbed the abdominal cavity lining?|grasp|0|305|325|326|469
+What immediate action did the grasper take upon retracting the liver?|retract|0|1337|1337|1371|1372
+Which instrument was manipulating the gallbladder during the procedure that used the bipolar cautery to cauterize the blood vessel?|grasper|2|667|668|663|813
+What immediate action did the grasper take when it encountered the hook dissection of the gallbladder?|grasp|1|1048|1155|1053|1053
+What immediate action did the grasper take upon capturing the gallbladder?|grasp|0|1082|1084|1091|1092
+What type of tissue did the bipolar instrument contact first when removing the cystic duct?|cystic_duct|0|696|710|788|810
+What immediate action did the grasper take upon capturing the gallbladder?|grasp|0|980|1042|1053|1053
+What happened right away when the surgeon grabbed the gallbladder?|grasp|0|1199|1200|1234|1237
+What type of tissue was the grasping instrument in contact with right away when it captured the gallbladder?|gallbladder|0|980|1042|1053|1053
+What immediate action did the grasper take once it started cutting through the peritoneum?|grasp|1|290|325|305|325
+Which specific tissue was directly manipulated by the retractor when it removed the liver?|liver|0|1298|1300|1301|1308
+Which specific type of tissue did the grasper come into contact with right away when it grabbed onto the peritoneum?|peritoneum|0|288|301|305|325
+Which instrument was used to dissect the gallbladder when the grasper was holding onto it?|hook|2|1061|1064|1048|1155
+What type of tissue did the instrument touch first upon capturing the contained object?|gallbladder|0|1440|1448|1449|1453
+What activity did the hook engage in during the process of grasping the gallbladder?|dissect|2|1091|1092|1048|1155
+Which instrument severed the peritoneum while the graspers held onto the intestines?|hook|2|226|229|217|272
+Which instrument performed dissection of the gallbladder alongside the grasper's task?|hook|2|1053|1053|1048|1155
+Which type of tissue came into contact with the grasping instrument as soon as it moved the liver?|gallbladder|0|1159|1191|1199|1200
+What immediate action did the grasper take when the bipolar was cutting through the cystic duct?|grasp|1|788|810|838|895
+Which type of tissue did the retractor grasp during the dissection of the gallbladder?|liver|2|1171|1187|1159|1191
+What immediate action did the grasper take upon capturing the gallbladder?|retract|0|326|469|470|473
+Which type of tissue came into contact with the gallbladder as soon as it was grabbed?|gallbladder|0|1094|1133|1138|1158
+What type of tissue did the grasper remove during the dissection of the gallbladder?|liver|2|1190|1194|1159|1191
+What movement did the hook make as it held onto the gallbladder?|dissect|2|561|567|532|576
+What immediate action did the grasper take upon securing the peritoneum?|grasp|0|288|301|305|325
+What action did the grasper take during the dissection of the cystic duct?|grasp|2|532|576|515|535
+Before the bipolar started cutting through the cystic duct, what specific action did the hook take?|dissect|1|734|780|788|810
+Which specific type of tissue did the grasper come into contact with right after it gripped the gallbladder?|gallbladder|0|1091|1092|1094|1133
+Which specific type of tissue was affected by the clipper's immediate contact during the procedure to clip the cystic duct?|cystic_artery|0|956|989|991|1002
+What maneuver was the clipper executing when it held onto the gallbladder?|clip|2|980|1042|956|989
+What type of tissue did the instrument contact right away when it grabbed onto the gallbladder?|gallbladder|0|540|554|561|567
+What task did the grasper perform during the process of coagulating the blood vessel?|grasp|2|526|531|515|535
+What movement was the hook making as it held onto the gallbladder?|dissect|2|917|923|902|943
+What movement preceded the clipping of the cystic artery by the clipper?|grasp|1|980|1042|991|1002
+Which specific type of tissue did the hook dissect during the process where the grasper held onto the gallbladder?|cystic_duct|2|917|923|902|943
+Which type of tissue came into contact with the vessel's wall right after it was coagulated?|cystic_duct|0|526|531|532|576
+What movement preceded the grasp performed by the instrument when retrieving the gallbladder?|dissect|1|1048|1155|1053|1053
+Which type of tissue did the hook explore during the process where the graspers held onto the gallbladder?|gallbladder|2|1061|1064|1048|1155
+What specific type of tissue was involved during the initial dissection of the gallbladder?|gallbladder|0|1171|1187|1190|1194
+What immediate action did the grasper take upon capturing the omentum?|retract|0|129|136|150|162
+What specific tissue was the grasper in contact with right after it held onto the peritoneum?|peritoneum|0|184|184|201|210
+Which type of tissue did the bipolar dissection needle target when it came in contact with the gallbladder?|cystic_artery|2|663|813|586|665
+What type of tissue came into contact with the gallbladder right after it was retracted?|gallbladder|0|279|283|284|286
+What immediate action did the grasper take upon capturing the gallbladder?|grasp|0|540|554|561|567
+What immediate action followed when the grasper captured the gallbladder?|grasp|0|917|923|939|963
+What tissue did the grasper come into contact with right away when it grabbed the specimen bag?|specimen_bag|0|1454|1464|1502|1506
+What was the immediate preceding movement of the clipper before it started to grasp the gallbladder?|clip|1|956|989|980|1042
+What procedure did the irrigation device execute right after the grasping instrument started pulling back the liver tissue?|aspirate|1|1356|1361|1371|1372
+Which specific type of tissue did the instrument come into contact with right away when it gripped the gallbladder?|gallbladder|0|1069|1072|1082|1084
+Immediately after cutting the peritoneum, what type of tissue did the hook come into contact with?|blood_vessel|0|290|325|526|531
+Immediately after dissection of the gallbladder, what type of tissue was the bipolar device in contact with?|cystic_duct|0|691|695|696|710
+What immediate action was taken by the hook during the dissection of the cystic duct?|dissect|0|734|780|856|899
+Which specific type of tissue did the hook sever when used to hold onto the peritoneum?|peritoneum|2|305|325|290|325
+What movement did the hook make during the process of grasping the gallbladder?|dissect|2|1138|1158|1048|1155
+What type of tissue did the grasper hold onto as the hook performed dissection around the cystic duct?|gallbladder|2|856|899|838|895
+What operation did the grasper perform during the time the bipolar device was heating up the blood vessel?|grasp|2|667|668|663|813
+What movement was the grasper making as the scissors were cutting the cystic duct?|grasp|2|1008|1025|980|1042
+What immediate action did the hook take after dissecting the gallbladder?|dissect|0|1171|1187|1190|1194
+What immediate action did the grasper take after packing the gallbladder?|grasp|0|1414|1439|1440|1448
+Which tool was pulling back the liver as the hook worked on the gallbladder?|grasper|2|1171|1187|1159|1191
+Which tissue did the hook penetrate as the grasper held onto the gallbladder?|gallbladder|2|1053|1053|1048|1155
+What immediate action followed clamping of the cystic duct?|clip|0|956|989|991|1002
+What action preceded the bipolar's coagulation of the blood vessel?|grasp|1|663|813|667|668
+Which specific type of tissue did the hook remove during the process where the grasper held onto the liver?|gallbladder|2|1296|1297|1197|1297
+Which instrument was used to dissect the gallbladder when the grasper was holding onto it?|hook|2|1091|1092|1048|1155
+Which device held onto the gallbladder during the bipolar dissection?|grasper|2|691|695|663|813
+What type of tissue did the clipper work on during the procedure when the grasper held onto the gallbladder?|cystic_duct|2|980|1042|956|989
+What immediate action did the grasper take when the bipolar started cutting through the cystic artery?|grasp|1|586|665|663|813
+What immediate action does the hook take after sealing the blood vessel?|dissect|0|526|531|532|576
+Which type of tissue did the instrument touch first when it gripped the gallbladder?|gallbladder|0|1061|1064|1069|1072

@@ -1,0 +1,686 @@
+What action did the irrigator perform immediately after retracting the omentum?|26|0|331|344|355|355
+What tissue was the grasper retracting while the irrigator was aspirateing the fluid?|22|2|1506|1555|1228|1574
+What tissue was the grasper retracting while the irrigator was retracting the liver?|22|2|1414|1426|1228|1574
+What action was the grasper performing while the hook was dissecting the cystic_plate?|26|2|757|766|572|1072
+What action did the irrigator perform immediately after irrigateing the liver?|2|0|1571|1571|1572|1574
+Which instrument was retracting the liver while the irrigator was irrigateing the liver?|17|2|1732|1732|1698|1756
+What tissue was the grasper retracting while the irrigator was aspirateing the fluid?|15|2|141|147|86|439
+What tissue was the grasper retracting while the irrigator was aspirateing the fluid?|22|2|1733|1739|1698|1756
+What tissue was the grasper retracting while the hook was dissecting the cystic_plate?|15|2|941|991|572|1072
+Which instrument was cuting the cystic_artery while the grasper was retracting the gallbladder?|27|2|1138|1139|1137|1140
+What action did the irrigator perform immediately after aspirateing the fluid?|20|0|1772|1774|1782|1786
+What action did the bipolar perform immediately after coagulateing the omentum?|13|0|116|179|839|882
+Which instrument was coagulateing the liver while the irrigator was aspirateing the fluid?|3|2|1506|1555|1493|1525
+What tissue did the grasper interact with immediately after retracting the liver?|28|0|1797|1798|1821|1846
+What action did the bipolar perform immediately after coagulateing the omentum?|7|0|55|67|116|179
+What action did the grasper perform immediately after the hook began dissecting the omentum?|26|1|539|568|545|569
+Which instrument was retracting the liver while the irrigator was aspirateing the fluid?|17|2|1506|1555|1228|1574
+What tissue was the grasper retracting while the bipolar was coagulateing the liver?|22|2|1641|1662|1627|1642
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|13|1|572|1072|574|588
+What action was the grasper performing while the irrigator was aspirateing the fluid?|26|2|1711|1723|1698|1756
+What action did the bipolar perform immediately after the grasper began retracting the liver?|26|1|1698|1756|1699|1699
+Which instrument was dissecting the omentum while the grasper was retracting the omentum?|19|2|83|85|74|85
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|13|1|1147|1147|1154|1167
+What action did the irrigator perform immediately after aspirateing the fluid?|2|0|1733|1739|1753|1761
+What action did the irrigator perform immediately after retracting the omentum?|26|0|369|370|381|389
+What action did the irrigator perform immediately after aspirateing the fluid?|26|0|1787|1790|1792|1792
+What action did the grasper perform immediately after the hook began dissecting the omentum?|26|1|0|4|5|77
+What tissue did the grasper interact with immediately after retracting the gallbladder?|23|0|86|439|440|463
+What tissue was the hook dissecting while the grasper was retracting the gallbladder?|15|2|496|503|406|502
+What action did the hook perform immediately after dissecting the gallbladder?|13|0|1204|1224|1242|1340
+What action was the irrigator performing while the bipolar was coagulateing the liver?|2|2|1533|1543|1506|1555
+Which instrument was retracting the liver while the irrigator was aspirateing the fluid?|17|2|1726|1731|1698|1756
+What tissue was the grasper retracting while the irrigator was aspirateing the fluid?|22|2|1360|1409|1228|1574
+What tissue did the hook interact with immediately after dissecting the omentum?|23|0|74|85|226|306
+What action did the grasper perform immediately before the hook began dissecting the omentum?|26|1|0|4|0|4
+What action did the bipolar perform immediately before the hook began dissecting the cystic_plate?|13|1|883|896|941|991
+What action did the irrigator perform immediately after the bipolar began coagulateing the liver?|2|1|2041|2047|2051|2063
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|496|503|504|507
+Which instrument was retracting the gallbladder while the bipolar was coagulateing the cystic_plate?|17|2|1187|1193|1187|1209
+What tissue was the hook dissecting while the grasper was retracting the gallbladder?|15|2|1216|1224|1204|1224
+What action did the grasper perform immediately after retracting the liver?|26|0|1627|1642|1673|1690
+What action was the irrigator performing while the bipolar was coagulateing the omentum?|2|2|116|179|106|116
+What tissue was the grasper retracting while the clipper was cliping the cystic_artery?|15|2|1106|1110|1076|1126
+What tissue did the grasper interact with immediately after retracting the omentum?|15|0|512|516|517|535
+What tissue was the grasper retracting while the bipolar was coagulateing the liver?|22|2|1493|1525|1228|1574
+What action was the bipolar performing while the irrigator was aspirateing the fluid?|7|2|1506|1555|1493|1525
+What tissue did the irrigator interact with immediately after retracting the omentum?|23|0|1598|1599|1637|1638
+What action did the bipolar perform immediately before the irrigator began irrigateing the liver?|7|1|1555|1568|1571|1571
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|14|0|141|147|152|190
+What tissue did the irrigator interact with immediately after retracting the omentum?|23|0|257|270|287|287
+What action was the hook performing while the grasper was retracting the gallbladder?|13|2|496|503|406|502
+What tissue was the grasper retracting while the irrigator was aspirateing the fluid?|22|2|1444|1455|1228|1574
+What action was the irrigator performing while the hook was dissecting the omentum?|26|2|332|388|331|344
+What tissue did the irrigator interact with immediately after irrigateing the abdominal_wall_cavity?|14|0|1709|1710|1711|1723
+What action was the grasper performing while the irrigator was retracting the omentum?|26|2|287|287|86|439
+What action did the irrigator perform immediately after the bipolar began coagulateing the liver?|2|1|1493|1525|1506|1555
+What tissue did the irrigator interact with immediately after irrigateing the abdominal_wall_cavity?|14|0|1766|1771|1772|1774
+What tissue was the hook dissecting while the grasper was retracting the gallbladder?|15|2|464|474|406|502
+What action did the hook perform immediately before the grasper began retracting the gallbladder?|13|1|1204|1224|1216|1224
+Which instrument was dissecting the gallbladder while the grasper was retracting the omentum?|19|2|440|463|406|502
+What action was the grasper performing while the irrigator was aspirateing the fluid?|26|2|1703|1708|1698|1756
+Which instrument was retracting the liver while the irrigator was irrigateing the abdominal_wall_cavity?|17|2|1709|1710|1698|1756
+What tissue did the grasper interact with immediately after retracting the liver?|22|0|1627|1642|1673|1690
+What tissue was the grasper retracting while the irrigator was dissecting the omentum?|15|2|317|330|86|439
+What action did the bipolar perform immediately after the irrigator began aspirateing the fluid?|7|1|1998|2027|2041|2047
+What tissue did the bipolar interact with immediately after retracting the omentum?|22|0|1781|1781|2041|2047
+Which instrument was retracting the gallbladder while the irrigator was retracting the omentum?|17|2|331|344|86|439
+What tissue did the hook interact with immediately after dissecting the gallbladder?|10|0|599|685|689|756
+What action did the grasper perform immediately after retracting the omentum?|26|0|512|516|517|535
+What tissue did the grasper interact with immediately after retracting the gallbladder?|22|0|496|503|504|507
+What action did the hook perform immediately after dissecting the omentum?|13|0|574|588|599|685
+What tissue did the grasper interact with immediately after retracting the gallbladder?|23|0|78|82|83|85
+What action did the irrigator perform immediately after retracting the omentum?|26|0|257|270|287|287
+Which instrument was dissecting the omentum while the grasper was retracting the gallbladder?|19|2|545|569|539|568
+What action was the grasper performing while the irrigator was aspirateing the fluid?|26|2|1726|1731|1698|1756
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|22|0|1572|1574|1575|1575
+What action was the grasper performing while the irrigator was irrigateing the liver?|26|2|1410|1410|1228|1574
+What tissue was the grasper retracting while the irrigator was retracting the omentum?|15|2|381|389|86|439
+Which instrument was retracting the liver while the bipolar was coagulateing the liver?|17|2|1555|1568|1228|1574
+What tissue did the grasper interact with immediately after retracting the gallbladder?|23|0|0|4|5|77
+What action was the hook performing while the grasper was retracting the gallbladder?|13|2|464|474|406|502
+What action was the grasper performing while the irrigator was dissecting the omentum?|26|2|317|330|86|439
+What action did the grasper perform immediately before the hook began dissecting the gallbladder?|26|1|1147|1147|1154|1167
+Which instrument was retracting the liver while the irrigator was irrigateing the liver?|17|2|1724|1725|1698|1756
+What action was the hook performing while the grasper was retracting the gallbladder?|13|2|545|569|539|568
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|22|2|1242|1340|1228|1574
+What tissue was the grasper retracting while the bipolar was coagulateing the liver?|22|2|1533|1543|1228|1574
+What action did the bipolar perform immediately after coagulateing the liver?|7|0|1641|1662|1684|1695
+What tissue did the grasper interact with immediately after grasping the specimen_bag?|28|0|1856|1890|1896|1911
+What tissue was the bipolar coagulateing while the irrigator was aspirateing the fluid?|23|2|141|147|116|179
+Which instrument was retracting the gallbladder while the irrigator was aspirateing the fluid?|17|2|141|147|86|439
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|15|2|1174|1180|1168|1177
+What action did the irrigator perform immediately after irrigateing the abdominal_wall_cavity?|2|0|1709|1710|1711|1723
+What tissue was the grasper retracting while the bipolar was coagulateing the cystic_plate?|15|2|1187|1193|1187|1209
+What action did the scissors perform immediately after the clipper began cliping the cystic_artery?|8|1|1106|1110|1117|1136
+What action did the bipolar perform immediately before the hook began dissecting the gallbladder?|7|1|1187|1193|1204|1224
+What tissue did the irrigator interact with immediately after retracting the omentum?|14|0|1491|1492|1506|1555
+What action was the grasper performing while the irrigator was irrigateing the liver?|26|2|1571|1571|1228|1574
+What action did the hook perform immediately after dissecting the cystic_plate?|13|0|941|991|994|1003
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|0|0|1772|1774|1782|1786
+What action did the grasper perform immediately after retracting the liver?|26|0|1778|1782|1797|1798
+What action did the bipolar perform immediately before the irrigator began aspirateing the fluid?|7|1|2041|2047|2051|2063
+What action did the grasper perform immediately after retracting the omentum?|26|0|5|77|78|82
+Which instrument was coagulateing the liver while the irrigator was retracting the liver?|3|2|1414|1426|1367|1464
+Which instrument was retracting the liver while the irrigator was irrigateing the abdominal_wall_cavity?|17|2|1782|1786|1778|1782
+What tissue did the grasper interact with immediately after retracting the gallbladder?|15|0|572|1072|1076|1126
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|17|2|406|502|86|439
+What action was the irrigator performing while the bipolar was coagulateing the liver?|2|2|1555|1568|1506|1555
+What action did the bipolar perform immediately before the irrigator began irrigateing the abdominal_wall_cavity?|26|1|1754|1756|1762|1763
+Which instrument was retracting the omentum while the hook was dissecting the omentum?|21|2|226|306|223|253
+Which instrument was retracting the liver while the bipolar was coagulateing the liver?|17|2|1684|1695|1673|1690
+What action did the hook perform immediately after the grasper began retracting the omentum?|13|1|5|77|9|26
+What action was the bipolar performing while the irrigator was aspirateing the fluid?|7|2|124|138|116|179
+What tissue was the hook dissecting while the grasper was retracting the omentum?|23|2|83|85|74|85
+What action did the scissors perform immediately before the grasper began retracting the gallbladder?|8|1|1137|1140|1138|1139
+What action did the bipolar perform immediately after coagulateing the liver?|7|0|1555|1568|1577|1596
+What tissue was the hook dissecting while the grasper was retracting the gallbladder?|23|2|545|569|539|568
+What tissue did the hook interact with immediately after dissecting the gallbladder?|15|0|1174|1180|1204|1224
+What action was the grasper performing while the bipolar was coagulateing the liver?|26|2|1533|1543|1228|1574
+What action did the irrigator perform immediately after aspirateing the fluid?|26|0|1576|1576|1598|1599
+Which instrument was retracting the liver while the bipolar was retracting the omentum?|17|2|1699|1699|1698|1756
+What tissue was the grasper retracting while the irrigator was irrigateing the abdominal_wall_cavity?|22|2|1709|1710|1698|1756
+What action did the irrigator perform immediately after the hook began dissecting the omentum?|26|1|226|306|257|270
+What action did the bipolar perform immediately after coagulateing the liver?|26|0|1684|1695|1699|1699
+What action was the grasper performing while the hook was dissecting the omentum?|26|2|574|588|572|1072
+What action was the grasper performing while the bipolar was coagulateing the liver?|26|2|1493|1525|1228|1574
+What tissue did the grasper interact with immediately after retracting the omentum?|15|0|536|544|545|569
+What action did the hook perform immediately before the grasper began retracting the gallbladder?|13|1|539|568|545|569
+What tissue did the bipolar interact with immediately after retracting the liver?|23|0|1754|1756|1781|1781
+What tissue did the irrigator interact with immediately after retracting the omentum?|14|0|1792|1792|1998|2027
+What action did the bipolar perform immediately before the hook began dissecting the omentum?|7|1|55|67|74|85
+What action did the irrigator perform immediately after irrigateing the abdominal_wall_cavity?|2|0|1762|1763|1764|1765
+What action did the grasper perform immediately after retracting the omentum?|26|0|475|495|496|503
+What action was the grasper performing while the irrigator was aspirateing the fluid?|26|2|141|147|86|439
+Which instrument was retracting the liver while the irrigator was aspirateing the fluid?|17|2|1444|1455|1228|1574
+Which instrument was retracting the gallbladder while the irrigator was retracting the omentum?|17|2|223|253|86|439
+Which instrument was retracting the omentum while the hook was dissecting the omentum?|17|2|45|48|5|77
+What action did the hook perform immediately after dissecting the omentum?|13|0|332|388|406|502
+What action did the irrigator perform immediately after irrigateing the abdominal_wall_cavity?|2|0|1782|1786|1787|1790
+What action did the grasper perform immediately before the irrigator began retracting the omentum?|26|1|1627|1642|1637|1638
+What action was the grasper performing while the irrigator was retracting the omentum?|26|2|381|389|86|439
+What tissue did the hook interact with immediately after dissecting the omentum?|23|0|45|48|74|85
+What tissue was the grasper retracting while the irrigator was retracting the omentum?|15|2|287|287|86|439
+What tissue was the grasper retracting while the irrigator was retracting the omentum?|15|2|369|370|86|439
+What action was the grasper performing while the irrigator was retracting the omentum?|26|2|1491|1492|1228|1574
+What action did the irrigator perform immediately after aspirateing the fluid?|26|0|152|190|223|253
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|572|1072|1076|1126
+What tissue did the irrigator interact with immediately after irrigateing the abdominal_wall_cavity?|14|0|1762|1763|1764|1765
+Which instrument was retracting the liver while the bipolar was coagulateing the liver?|17|2|1533|1543|1228|1574
+What action did the grasper perform immediately after the hook began dissecting the gallbladder?|26|1|1174|1180|1179|1181
+What action was the grasper performing while the irrigator was retracting the omentum?|26|2|355|355|86|439
+What tissue did the irrigator interact with immediately after irrigateing the liver?|14|0|1571|1571|1572|1574
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|22|0|1711|1723|1724|1725
+What action did the irrigator perform immediately after retracting the omentum?|2|0|381|389|1360|1409
+Which instrument was retracting the omentum while the hook was coagulateing the omentum?|17|2|27|43|5|77
+What tissue did the hook interact with immediately after dissecting the omentum?|23|0|522|535|539|568
+What tissue was the grasper retracting while the bipolar was coagulateing the omentum?|15|2|116|179|86|439
+What action did the irrigator perform immediately after retracting the liver?|26|0|1480|1485|1491|1492
+Which instrument was retracting the omentum while the hook was dissecting the omentum?|17|2|539|568|536|544
+What action did the irrigator perform immediately before the grasper began retracting the liver?|2|1|1772|1774|1778|1782
+Which instrument was dissecting the gallbladder while the grasper was retracting the gallbladder?|19|2|464|474|406|502
+What action did the grasper perform immediately before the bipolar began retracting the omentum?|26|1|1778|1782|1781|1781
+What action did the hook perform immediately after dissecting the cystic_duct?|13|0|689|756|757|766
+What action was the grasper performing while the bipolar was dissecting the cystic_artery?|26|2|883|896|572|1072
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|22|0|1360|1409|1410|1410
+What action did the irrigator perform immediately after aspirateing the fluid?|20|0|1753|1761|1762|1763
+What tissue did the irrigator interact with immediately after retracting the omentum?|23|0|369|370|381|389
+What tissue was the irrigator aspirateing while the bipolar was coagulateing the omentum?|14|2|116|179|106|116
+What tissue did the hook interact with immediately after dissecting the omentum?|23|0|9|26|27|43
+What tissue was the grasper retracting while the irrigator was aspirateing the fluid?|22|2|1572|1574|1228|1574
+What action was the grasper performing while the bipolar was coagulateing the cystic_plate?|26|2|1187|1193|1187|1209
+What action did the grasper perform immediately after grasping the specimen_bag?|24|0|1821|1846|1847|1855
+What action did the hook perform immediately after the bipolar began coagulateing the cystic_plate?|13|1|1187|1193|1204|1224
+What tissue was the hook dissecting while the grasper was retracting the gallbladder?|23|2|0|4|0|4
+What action did the grasper perform immediately after retracting the omentum?|26|0|536|544|545|569
+What tissue did the bipolar interact with immediately after coagulateing the cystic_plate?|22|0|1187|1193|1367|1464
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|1216|1224|1228|1574
+What action did the bipolar perform immediately after coagulateing the liver?|7|0|1533|1543|1555|1568
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|15|2|1204|1224|1187|1209
+What action did the bipolar perform immediately before the irrigator began retracting the omentum?|7|1|1577|1596|1598|1599
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|14|0|1444|1455|1465|1478
+What tissue did the hook interact with immediately after dissecting the cystic_artery?|10|0|994|1003|1009|1013
+What action was the hook performing while the grasper was retracting the gallbladder?|13|2|1216|1224|1204|1224
+What action was the grasper performing while the hook was dissecting the omentum?|26|2|45|48|5|77
+Which instrument was dissecting the omentum while the irrigator was retracting the omentum?|19|2|257|270|226|306
+What tissue did the hook interact with immediately after dissecting the omentum?|23|0|226|306|332|388
+What action did the hook perform immediately after the bipolar began dissecting the cystic_artery?|13|1|883|896|941|991
+What action did the scissors perform immediately after cuting the cystic_duct?|8|0|1117|1136|1137|1140
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|22|0|1506|1555|1571|1571
+What action did the bipolar perform immediately after the irrigator began aspirateing the fluid?|7|1|1576|1576|1577|1596
+What tissue did the scissors interact with immediately after cuting the cystic_duct?|9|0|1117|1136|1137|1140
+Which instrument was retracting the liver while the irrigator was retracting the omentum?|17|2|1637|1638|1627|1642
+What action did the irrigator perform immediately before the bipolar began coagulateing the liver?|26|1|1637|1638|1641|1662
+What tissue did the grasper interact with immediately after retracting the omentum?|15|0|440|463|464|474
+What action did the irrigator perform immediately after aspirateing the fluid?|20|0|1506|1555|1571|1571
+What tissue was the grasper retracting while the hook was dissecting the omentum?|23|2|539|568|536|544
+What tissue did the hook interact with immediately after dissecting the cystic_plate?|9|0|941|991|994|1003
+What action was the grasper performing while the bipolar was retracting the liver?|26|2|1754|1756|1698|1756
+Which instrument was coagulateing the omentum while the irrigator was aspirateing the fluid?|3|2|141|147|116|179
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|13|1|1168|1177|1174|1180
+What action did the bipolar perform immediately after coagulateing the liver?|7|0|1493|1525|1533|1543
+What tissue did the hook interact with immediately after dissecting the gallbladder?|15|0|1154|1167|1174|1180
+What action was the grasper performing while the hook was dissecting the omentum?|26|2|332|388|86|439
+What tissue was the grasper retracting while the clipper was cliping the cystic_duct?|15|2|1063|1105|572|1072
+What action was the bipolar performing while the irrigator was aspirateing the fluid?|7|2|141|147|116|179
+What action was the grasper performing while the clipper was cliping the cystic_duct?|26|2|1021|1036|572|1072
+What action was the grasper performing while the irrigator was irrigateing the abdominal_wall_cavity?|26|2|1709|1710|1698|1756
+Which instrument was retracting the gallbladder while the irrigator was aspirateing the fluid?|17|2|124|138|86|439
+Which instrument was retracting the liver while the irrigator was aspirateing the fluid?|17|2|1465|1478|1228|1574
+What action was the grasper performing while the irrigator was aspirateing the fluid?|26|2|1572|1574|1228|1574
+What action did the grasper perform immediately after packing the gallbladder?|16|0|1847|1855|1856|1890
+What tissue was the grasper retracting while the hook was dissecting the omentum?|23|2|74|85|5|77
+What action did the irrigator perform immediately before the bipolar began coagulateing the liver?|2|1|1360|1409|1367|1464
+Which instrument was retracting the gallbladder while the hook was dissecting the omentum?|17|2|226|306|86|439
+What tissue did the clipper interact with immediately after cliping the cystic_duct?|10|0|1021|1036|1063|1105
+What action did the grasper perform immediately before the hook began dissecting the gallbladder?|26|1|1168|1177|1174|1180
+What action did the bipolar perform immediately after coagulateing the liver?|7|0|1367|1464|1493|1525
+What action was the grasper performing while the irrigator was retracting the omentum?|26|2|369|370|86|439
+What tissue was the scissors cuting while the grasper was retracting the gallbladder?|9|2|1138|1139|1137|1140
+What action did the irrigator perform immediately after the grasper began retracting the liver?|26|1|1627|1642|1637|1638
+What action did the irrigator perform immediately after retracting the omentum?|26|0|287|287|311|316
+What tissue did the grasper interact with immediately after retracting the gallbladder?|23|0|517|535|536|544
+What tissue did the hook interact with immediately after dissecting the cystic_duct?|12|0|689|756|757|766
+What tissue was the grasper retracting while the irrigator was retracting the omentum?|15|2|331|344|86|439
+What tissue did the bipolar interact with immediately after coagulateing the liver?|22|0|1600|1622|1641|1662
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|23|0|152|190|223|253
+Which instrument was cliping the cystic_duct while the grasper was retracting the gallbladder?|6|2|1076|1126|1063|1105
+What action did the grasper perform immediately after retracting the omentum?|26|0|570|571|572|1072
+What tissue did the irrigator interact with immediately after irrigateing the liver?|14|0|1732|1732|1733|1739
+What action was the grasper performing while the irrigator was retracting the omentum?|26|2|1637|1638|1627|1642
+What action did the irrigator perform immediately after irrigateing the liver?|2|0|1410|1410|1411|1412
+What action was the hook performing while the irrigator was retracting the omentum?|13|2|257|270|226|306
+What tissue did the irrigator interact with immediately after retracting the liver?|23|0|1480|1485|1491|1492
+What tissue did the grasper interact with immediately after retracting the liver?|22|0|1698|1756|1778|1782
+What action was the grasper performing while the hook was dissecting the cystic_artery?|26|2|994|1003|572|1072
+What action was the bipolar performing while the irrigator was irrigateing the liver?|7|2|1410|1410|1367|1464
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|17|2|1204|1224|1187|1209
+What tissue was the grasper retracting while the irrigator was aspirateing the fluid?|22|2|1711|1723|1698|1756
+What tissue was the bipolar coagulateing while the grasper was retracting the gallbladder?|12|2|1187|1209|1187|1193
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|464|474|475|495
+Which instrument was dissecting the gallbladder while the grasper was retracting the gallbladder?|19|2|496|503|406|502
+Which instrument was coagulateing the omentum while the irrigator was aspirateing the fluid?|3|2|152|190|116|179
+What tissue was the grasper retracting while the irrigator was retracting the omentum?|22|2|1491|1492|1228|1574
+What action was the grasper performing while the irrigator was aspirateing the fluid?|26|2|124|138|86|439
+What action did the hook perform immediately after dissecting the omentum?|13|0|522|535|539|568
+What action was the grasper performing while the hook was dissecting the omentum?|26|2|226|306|86|439
+What action did the irrigator perform immediately after the bipolar began retracting the omentum?|20|1|1781|1781|1782|1786
+Which instrument was retracting the liver while the irrigator was aspirateing the fluid?|17|2|1360|1409|1228|1574
+What action did the bipolar perform immediately before the irrigator began aspirateing the fluid?|26|1|1699|1699|1703|1708
+What action did the hook perform immediately after dissecting the gallbladder?|13|0|1174|1180|1204|1224
+What action did the bipolar perform immediately before the grasper began retracting the liver?|7|1|1641|1662|1673|1690
+What tissue did the grasper interact with immediately after retracting the gallbladder?|15|0|1168|1177|1179|1181
+What action was the grasper performing while the bipolar was coagulateing the liver?|26|2|1641|1662|1627|1642
+Which instrument was retracting the gallbladder while the clipper was cliping the cystic_duct?|17|2|1021|1036|572|1072
+What tissue was the grasper retracting while the hook was dissecting the cystic_artery?|15|2|994|1003|572|1072
+Which instrument was retracting the gallbladder while the clipper was cliping the cystic_artery?|17|2|1106|1110|1076|1126
+What action did the hook perform immediately before the grasper began retracting the omentum?|13|1|522|535|536|544
+What action did the grasper perform immediately after the hook began dissecting the gallbladder?|26|1|406|502|440|463
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|17|2|599|685|572|1072
+What action did the hook perform immediately before the grasper began retracting the gallbladder?|13|1|1154|1167|1168|1177
+Which instrument was retracting the liver while the bipolar was coagulateing the liver?|17|2|1493|1525|1228|1574
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|22|0|1726|1731|1732|1732
+What tissue did the grasper interact with immediately after retracting the gallbladder?|23|0|508|511|512|516
+What action did the bipolar perform immediately after dissecting the cystic_duct?|13|0|839|882|883|896
+What tissue was the grasper retracting while the irrigator was aspirateing the fluid?|22|2|1703|1708|1698|1756
+What tissue did the bipolar interact with immediately after coagulateing the liver?|22|0|1367|1464|1493|1525
+What action did the clipper perform immediately after the grasper began retracting the gallbladder?|5|1|1076|1126|1106|1110
+Which instrument was aspirateing the fluid while the bipolar was coagulateing the liver?|21|2|1555|1568|1506|1555
+What tissue did the bipolar interact with immediately after retracting the omentum?|22|0|1699|1699|1754|1756
+What action did the bipolar perform immediately after retracting the omentum?|26|0|1699|1699|1754|1756
+Which instrument was retracting the gallbladder while the bipolar was coagulateing the omentum?|17|2|116|179|86|439
+What action did the hook perform immediately before the grasper began retracting the omentum?|13|1|0|4|5|77
+Which instrument was retracting the gallbladder while the hook was dissecting the omentum?|17|2|0|4|0|4
+What tissue was the grasper retracting while the irrigator was aspirateing the fluid?|22|2|1411|1412|1228|1574
+What tissue was the grasper retracting while the irrigator was aspirateing the fluid?|22|2|1726|1731|1698|1756
+What action did the grasper perform immediately before the clipper began cliping the cystic_artery?|26|1|1076|1126|1106|1110
+What tissue was the irrigator aspirateing while the bipolar was coagulateing the liver?|14|2|1367|1464|1360|1409
+What action did the grasper perform immediately before the hook began dissecting the gallbladder?|26|1|1228|1574|1242|1340
+What tissue did the bipolar interact with immediately after coagulateing the liver?|22|0|1555|1568|1577|1596
+What action did the irrigator perform immediately after the grasper began retracting the omentum?|2|1|1984|1984|1998|2027
+What action was the grasper performing while the hook was dissecting the gallbladder?|26|2|1204|1224|1187|1209
+What tissue did the irrigator interact with immediately after retracting the liver?|14|0|1414|1426|1444|1455
+What action did the clipper perform immediately before the scissors began cuting the cystic_duct?|5|1|1106|1110|1117|1136
+Which instrument was aspirateing the fluid while the bipolar was coagulateing the liver?|21|2|1533|1543|1506|1555
+Which instrument was dissecting the omentum while the irrigator was retracting the omentum?|19|2|369|370|332|388
+What action was the grasper performing while the irrigator was aspirateing the fluid?|26|2|1506|1555|1228|1574
+What action did the grasper perform immediately before the hook began dissecting the omentum?|26|1|517|535|522|535
+What action did the bipolar perform immediately after the hook began dissecting the cystic_duct?|13|1|767|816|839|882
+Which instrument was retracting the liver while the bipolar was coagulateing the liver?|17|2|1641|1662|1627|1642
+Which instrument was coagulateing the omentum while the irrigator was aspirateing the fluid?|3|2|124|138|116|179
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|14|0|1998|2027|2051|2063
+What action did the irrigator perform immediately after retracting the omentum?|2|0|1792|1792|1998|2027
+Which instrument was retracting the liver while the hook was dissecting the gallbladder?|17|2|1242|1340|1228|1574
+What action was the grasper performing while the irrigator was aspirateing the fluid?|26|2|152|190|86|439
+What tissue was the grasper retracting while the irrigator was retracting the omentum?|15|2|257|270|86|439
+What action did the grasper perform immediately before the hook began dissecting the omentum?|26|1|572|1072|574|588
+What action did the bipolar perform immediately after the irrigator began aspirateing the fluid?|7|1|2051|2063|2073|2078
+What tissue did the hook interact with immediately after dissecting the cystic_plate?|10|0|757|766|767|816
+Which instrument was retracting the liver while the irrigator was aspirateing the fluid?|17|2|1753|1761|1698|1756
+What action did the bipolar perform immediately after coagulateing the liver?|7|0|1600|1622|1641|1662
+What action was the grasper performing while the bipolar was dissecting the cystic_duct?|26|2|839|882|572|1072
+What action did the grasper perform immediately after the hook began dissecting the omentum?|26|1|522|535|536|544
+What tissue was the grasper retracting while the hook was dissecting the cystic_plate?|15|2|757|766|572|1072
+What tissue did the bipolar interact with immediately after coagulateing the omentum?|23|0|55|67|116|179
+What tissue was the grasper retracting while the irrigator was retracting the gallbladder?|15|2|311|316|86|439
+What action was the grasper performing while the irrigator was aspirateing the fluid?|26|2|1411|1412|1228|1574
+Which instrument was retracting the gallbladder while the irrigator was retracting the gallbladder?|17|2|311|316|86|439
+What tissue did the bipolar interact with immediately after dissecting the cystic_artery?|12|0|883|896|1187|1193
+What action was the grasper performing while the irrigator was retracting the omentum?|26|2|331|344|86|439
+What action did the hook perform immediately after dissecting the gallbladder?|13|0|1154|1167|1174|1180
+What action was the grasper performing while the bipolar was coagulateing the omentum?|26|2|55|67|5|77
+What action did the irrigator perform immediately after retracting the liver?|2|0|1414|1426|1444|1455
+What tissue did the irrigator interact with immediately after dissecting the omentum?|23|0|317|330|331|344
+What action was the hook performing while the grasper was retracting the omentum?|13|2|440|463|406|502
+What action did the grasper perform immediately after grasping the specimen_bag?|26|0|1896|1911|1984|1984
+What action did the bipolar perform immediately after the irrigator began retracting the omentum?|7|1|1598|1599|1600|1622
+What action did the hook perform immediately before the bipolar began coagulateing the omentum?|13|1|45|48|55|67
+What action was the grasper performing while the hook was dissecting the omentum?|26|2|0|4|0|4
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|22|0|1465|1478|1480|1485
+Which instrument was retracting the omentum while the hook was dissecting the omentum?|21|2|332|388|331|344
+Which instrument was coagulateing the liver while the irrigator was aspirateing the fluid?|3|2|1411|1412|1367|1464
+What tissue did the irrigator interact with immediately after retracting the gallbladder?|23|0|311|316|317|330
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|22|0|1411|1412|1414|1426
+What action did the hook perform immediately after dissecting the omentum?|13|0|74|85|226|306
+What tissue did the hook interact with immediately after dissecting the omentum?|23|0|539|568|574|588
+What action was the grasper performing while the irrigator was retracting the liver?|26|2|1414|1426|1228|1574
+What tissue did the irrigator interact with immediately after irrigateing the liver?|14|0|1724|1725|1726|1731
+What action did the irrigator perform immediately after aspirateing the fluid?|2|0|106|116|124|138
+What tissue was the irrigator retracting while the hook was dissecting the omentum?|23|2|332|388|331|344
+What action did the grasper perform immediately after the bipolar began coagulateing the liver?|26|1|1641|1662|1673|1690
+Which instrument was aspirateing the fluid while the bipolar was coagulateing the liver?|21|2|1367|1464|1360|1409
+What tissue did the grasper interact with immediately after retracting the liver?|22|0|1228|1574|1627|1642
+What tissue was the bipolar coagulateing while the irrigator was irrigateing the liver?|22|2|1410|1410|1367|1464
+What tissue was the grasper retracting while the irrigator was irrigateing the abdominal_wall_cavity?|22|2|1782|1786|1778|1782
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|78|82|83|85
+What action did the bipolar perform immediately after the irrigator began aspirateing the fluid?|7|1|106|116|116|179
+What action did the bipolar perform immediately after coagulateing the liver?|7|0|2041|2047|2073|2078
+What action did the irrigator perform immediately after the bipolar began coagulateing the liver?|26|1|1577|1596|1598|1599
+Which instrument was retracting the liver while the irrigator was retracting the liver?|17|2|1414|1426|1228|1574
+Which instrument was retracting the omentum while the hook was dissecting the omentum?|17|2|9|26|5|77
+What tissue was the grasper retracting while the hook was dissecting the omentum?|23|2|45|48|5|77
+What tissue did the grasper interact with immediately after retracting the omentum?|15|0|83|85|86|439
+What tissue did the irrigator interact with immediately after retracting the omentum?|15|0|287|287|311|316
+What action did the bipolar perform immediately before the irrigator began aspirateing the fluid?|7|1|1493|1525|1506|1555
+What action did the grasper perform immediately before the irrigator began aspirateing the fluid?|26|1|1984|1984|1998|2027
+Which instrument was dissecting the gallbladder while the grasper was retracting the gallbladder?|19|2|1179|1181|1174|1180
+Which instrument was dissecting the gallbladder while the grasper was retracting the omentum?|19|2|475|495|406|502
+What tissue was the grasper retracting while the hook was dissecting the omentum?|23|2|9|26|5|77
+What tissue did the bipolar interact with immediately after coagulateing the liver?|22|0|1493|1525|1533|1543
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|508|511|512|516
+What tissue was the grasper retracting while the bipolar was dissecting the cystic_duct?|15|2|839|882|572|1072
+What action did the irrigator perform immediately after irrigateing the liver?|2|0|1575|1575|1576|1576
+Which instrument was dissecting the gallbladder while the grasper was retracting the gallbladder?|19|2|1216|1224|1204|1224
+What action did the irrigator perform immediately after aspirateing the fluid?|20|0|1726|1731|1732|1732
+What action did the irrigator perform immediately after the bipolar began coagulateing the omentum?|2|1|116|179|124|138
+What action did the hook perform immediately before the irrigator began retracting the omentum?|13|1|332|388|355|355
+What action did the bipolar perform immediately before the irrigator began irrigateing the abdominal_wall_cavity?|26|1|1781|1781|1782|1786
+What tissue was the grasper retracting while the irrigator was irrigateing the liver?|22|2|1571|1571|1228|1574
+Which instrument was retracting the liver while the irrigator was aspirateing the fluid?|17|2|1711|1723|1698|1756
+What action did the grasper perform immediately after retracting the omentum?|26|0|83|85|86|439
+What action did the bipolar perform immediately after the grasper began retracting the gallbladder?|7|1|1187|1209|1187|1193
+What tissue did the grasper interact with immediately after retracting the gallbladder?|15|0|1179|1181|1187|1209
+What action did the irrigator perform immediately after irrigateing the liver?|2|0|1732|1732|1733|1739
+Which instrument was retracting the liver while the bipolar was retracting the omentum?|17|2|1781|1781|1778|1782
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|86|439|440|463
+What action did the irrigator perform immediately after aspirateing the fluid?|2|0|1444|1455|1465|1478
+What action did the bipolar perform immediately after retracting the omentum?|7|0|1781|1781|2041|2047
+What action did the grasper perform immediately after the hook began dissecting the gallbladder?|26|1|1204|1224|1216|1224
+Which instrument was retracting the liver while the irrigator was aspirateing the fluid?|17|2|1733|1739|1698|1756
+Which instrument was dissecting the omentum while the grasper was retracting the gallbladder?|19|2|78|82|74|85
+What action did the irrigator perform immediately after the hook began dissecting the gallbladder?|2|1|1242|1340|1360|1409
+Which instrument was dissecting the omentum while the irrigator was retracting the omentum?|19|2|355|355|332|388
+What tissue did the grasper interact with immediately after retracting the gallbladder?|22|0|1216|1224|1228|1574
+What action did the hook perform immediately before the grasper began retracting the omentum?|13|1|406|502|440|463
+What tissue did the hook interact with immediately after dissecting the omentum?|15|0|574|588|599|685
+What action did the bipolar perform immediately after coagulateing the cystic_plate?|7|0|1187|1193|1367|1464
+What tissue was the hook dissecting while the irrigator was retracting the omentum?|23|2|355|355|332|388
+What action did the clipper perform immediately before the grasper began retracting the gallbladder?|5|1|1063|1105|1076|1126
+What action did the grasper perform immediately before the bipolar began retracting the omentum?|26|1|1698|1756|1699|1699
+What tissue did the hook interact with immediately after dissecting the omentum?|23|0|0|4|9|26
+What action did the hook perform immediately after dissecting the omentum?|13|0|45|48|74|85
+What tissue did the hook interact with immediately after dissecting the cystic_duct?|12|0|767|816|941|991
+What action did the hook perform immediately after dissecting the omentum?|7|0|9|26|27|43
+What action did the irrigator perform immediately after the bipolar began coagulateing the liver?|20|1|1555|1568|1571|1571
+What tissue was the grasper retracting while the hook was dissecting the cystic_duct?|15|2|767|816|572|1072
+Which instrument was dissecting the omentum while the grasper was retracting the gallbladder?|19|2|0|4|0|4
+What tissue did the irrigator interact with immediately after irrigateing the abdominal_wall_cavity?|14|0|1782|1786|1787|1790
+What action was the bipolar performing while the irrigator was aspirateing the fluid?|7|2|152|190|116|179
+What action did the bipolar perform immediately after the hook began dissecting the omentum?|7|1|45|48|55|67
+What action did the grasper perform immediately after retracting the omentum?|26|0|440|463|464|474
+What tissue did the grasper interact with immediately after retracting the omentum?|15|0|570|571|572|1072
+What action was the bipolar performing while the irrigator was aspirateing the fluid?|7|2|1411|1412|1367|1464
+What action was the grasper performing while the irrigator was retracting the omentum?|26|2|223|253|86|439
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|15|2|599|685|572|1072
+What action did the hook perform immediately after the grasper began retracting the liver?|13|1|1228|1574|1242|1340
+What tissue did the grasper interact with immediately after grasping the specimen_bag?|23|0|1896|1911|1984|1984
+What tissue was the irrigator aspirateing while the bipolar was coagulateing the liver?|14|2|1555|1568|1506|1555
+What tissue did the bipolar interact with immediately after coagulateing the liver?|23|0|1684|1695|1699|1699
+What action was the scissors performing while the grasper was retracting the gallbladder?|8|2|1138|1139|1137|1140
+What action did the hook perform immediately after coagulateing the omentum?|13|0|27|43|45|48
+What tissue did the grasper interact with immediately after retracting the gallbladder?|15|0|1138|1139|1147|1147
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|14|0|124|138|141|147
+Which instrument was retracting the gallbladder while the hook was dissecting the omentum?|17|2|522|535|517|535
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|1179|1181|1187|1209
+What action was the grasper performing while the hook was dissecting the cystic_duct?|26|2|767|816|572|1072
+What action was the clipper performing while the grasper was retracting the gallbladder?|5|2|1076|1126|1063|1105
+What action was the bipolar performing while the grasper was retracting the gallbladder?|7|2|1187|1209|1187|1193
+What tissue did the irrigator interact with immediately after retracting the omentum?|14|0|381|389|1360|1409
+What tissue did the grasper interact with immediately after retracting the liver?|15|0|504|507|508|511
+What action did the irrigator perform immediately after retracting the omentum?|2|0|1491|1492|1506|1555
+What action did the bipolar perform immediately after the irrigator began aspirateing the fluid?|26|1|1753|1761|1754|1756
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|14|0|106|116|124|138
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|1187|1209|1216|1224
+Which instrument was retracting the liver while the irrigator was irrigateing the liver?|17|2|1571|1571|1228|1574
+Which instrument was retracting the gallbladder while the irrigator was dissecting the omentum?|17|2|317|330|86|439
+What tissue did the grasper interact with immediately after grasping the specimen_bag?|15|0|1821|1846|1847|1855
+What action was the grasper performing while the clipper was cliping the cystic_duct?|26|2|1063|1105|572|1072
+Which instrument was retracting the gallbladder while the hook was dissecting the cystic_duct?|17|2|767|816|572|1072
+Which instrument was retracting the omentum while the hook was dissecting the omentum?|17|2|74|85|5|77
+Which instrument was retracting the gallbladder while the irrigator was retracting the omentum?|17|2|355|355|86|439
+Which instrument was retracting the liver while the irrigator was retracting the omentum?|17|2|1491|1492|1228|1574
+Which instrument was retracting the gallbladder while the irrigator was retracting the omentum?|17|2|287|287|86|439
+What action did the hook perform immediately after dissecting the omentum?|13|0|226|306|332|388
+What tissue was the grasper retracting while the clipper was cliping the cystic_duct?|15|2|1021|1036|572|1072
+What action did the irrigator perform immediately after aspirateing the fluid?|20|0|1360|1409|1410|1410
+What tissue was the grasper retracting while the bipolar was coagulateing the omentum?|23|2|55|67|5|77
+What action did the irrigator perform immediately after aspirateing the fluid?|2|0|1998|2027|2051|2063
+What tissue did the hook interact with immediately after dissecting the gallbladder?|23|0|406|502|522|535
+What action was the grasper performing while the bipolar was coagulateing the liver?|26|2|1555|1568|1228|1574
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|0|0|1753|1761|1762|1763
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|0|4|5|77
+Which instrument was retracting the gallbladder while the irrigator was retracting the omentum?|17|2|369|370|86|439
+What action was the irrigator performing while the bipolar was retracting the liver?|2|2|1754|1756|1753|1761
+What tissue did the bipolar interact with immediately after coagulateing the liver?|22|0|1533|1543|1555|1568
+Which instrument was retracting the gallbladder while the hook was dissecting the cystic_duct?|17|2|1009|1013|572|1072
+What action did the grasper perform immediately after retracting the liver?|26|0|1698|1756|1778|1782
+What tissue was the grasper retracting while the hook was dissecting the cystic_duct?|15|2|1009|1013|572|1072
+What tissue was the grasper retracting while the irrigator was irrigateing the liver?|22|2|1410|1410|1228|1574
+What tissue was the grasper retracting while the bipolar was retracting the omentum?|22|2|1699|1699|1698|1756
+Which instrument was retracting the gallbladder while the hook was dissecting the omentum?|17|2|574|588|572|1072
+What tissue did the irrigator interact with immediately after retracting the omentum?|23|0|355|355|369|370
+What tissue did the bipolar interact with immediately after coagulateing the abdominal_wall_cavity?|0|0|2073|2078|2086|2088
+What action was the grasper performing while the hook was coagulateing the omentum?|26|2|27|43|5|77
+What tissue was the grasper retracting while the irrigator was aspirateing the fluid?|15|2|152|190|86|439
+What tissue did the clipper interact with immediately after cliping the cystic_duct?|9|0|1063|1105|1106|1110
+Which instrument was retracting the gallbladder while the clipper was cliping the cystic_duct?|17|2|1063|1105|572|1072
+What tissue was the hook dissecting while the irrigator was retracting the omentum?|23|2|369|370|332|388
+What action was the grasper performing while the scissors was cuting the cystic_duct?|26|2|1117|1136|1076|1126
+What tissue did the irrigator interact with immediately after retracting the omentum?|14|0|1637|1638|1703|1708
+What action was the grasper performing while the bipolar was coagulateing the liver?|26|2|1684|1695|1673|1690
+What action did the irrigator perform immediately after aspirateing the fluid?|20|0|1703|1708|1709|1710
+What action was the grasper performing while the irrigator was irrigateing the abdominal_wall_cavity?|26|2|1782|1786|1778|1782
+What action did the irrigator perform immediately before the bipolar began coagulateing the abdominal_wall_cavity?|2|1|2051|2063|2073|2078
+What action was the hook performing while the grasper was retracting the omentum?|13|2|475|495|406|502
+What action did the hook perform immediately after the bipolar began coagulateing the omentum?|13|1|55|67|74|85
+What action did the bipolar perform immediately after coagulateing the liver?|7|0|1577|1596|1600|1622
+What action was the grasper performing while the irrigator was irrigateing the liver?|26|2|1724|1725|1698|1756
+What tissue was the clipper cliping while the grasper was retracting the gallbladder?|10|2|1076|1126|1063|1105
+Which instrument was dissecting the omentum while the irrigator was retracting the omentum?|19|2|381|389|332|388
+What action did the hook perform immediately after dissecting the cystic_duct?|13|0|1009|1013|1154|1167
+What action did the irrigator perform immediately before the hook began dissecting the omentum?|26|1|223|253|226|306
+What action did the grasper perform immediately before the hook began dissecting the omentum?|26|1|536|544|539|568
+What action did the clipper perform immediately after cliping the cystic_duct?|5|0|1063|1105|1106|1110
+What action was the irrigator performing while the bipolar was coagulateing the liver?|2|2|1367|1464|1360|1409
+Which instrument was retracting the gallbladder while the irrigator was aspirateing the fluid?|17|2|152|190|86|439
+What action did the irrigator perform immediately after retracting the omentum?|2|0|1637|1638|1703|1708
+Which instrument was retracting the gallbladder while the hook was dissecting the omentum?|17|2|332|388|86|439
+What action was the grasper performing while the hook was dissecting the omentum?|26|2|539|568|536|544
+What tissue was the grasper retracting while the irrigator was irrigateing the liver?|22|2|1732|1732|1698|1756
+What action was the hook performing while the irrigator was retracting the omentum?|13|2|355|355|332|388
+Which instrument was retracting the liver while the irrigator was aspirateing the fluid?|17|2|1411|1412|1228|1574
+What tissue was the bipolar coagulateing while the irrigator was aspirateing the fluid?|22|2|1411|1412|1367|1464
+What action did the hook perform immediately after dissecting the gallbladder?|13|0|599|685|689|756
+What action was the hook performing while the irrigator was retracting the omentum?|13|2|381|389|332|388
+What action was the bipolar performing while the irrigator was retracting the liver?|7|2|1414|1426|1367|1464
+What action did the irrigator perform immediately before the bipolar began coagulateing the liver?|26|1|1598|1599|1600|1622
+What tissue was the grasper retracting while the bipolar was coagulateing the liver?|22|2|1367|1464|1228|1574
+What tissue did the grasper interact with immediately after retracting the gallbladder?|15|0|1187|1209|1216|1224
+What action did the irrigator perform immediately after retracting the omentum?|26|0|1598|1599|1637|1638
+What action did the bipolar perform immediately before the grasper began retracting the liver?|7|1|1684|1695|1698|1756
+What tissue was the grasper retracting while the irrigator was retracting the liver?|22|2|1480|1485|1228|1574
+What action did the hook perform immediately after dissecting the cystic_duct?|13|0|767|816|941|991
+Which instrument was retracting the gallbladder while the irrigator was aspirateing the fluid?|17|2|106|116|86|439
+What action was the grasper performing while the clipper was cliping the cystic_artery?|26|2|1106|1110|1076|1126
+What action did the hook perform immediately after the irrigator began retracting the omentum?|13|1|223|253|226|306
+What action did the hook perform immediately after dissecting the omentum?|13|0|0|4|9|26
+What tissue was the grasper retracting while the hook was dissecting the omentum?|15|2|0|4|0|4
+Which instrument was dissecting the omentum while the irrigator was retracting the omentum?|19|2|287|287|226|306
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|13|1|0|4|0|4
+What tissue was the grasper retracting while the irrigator was retracting the omentum?|15|2|355|355|86|439
+What tissue was the hook dissecting while the irrigator was retracting the omentum?|23|2|287|287|226|306
+What action did the hook perform immediately after dissecting the cystic_plate?|13|0|757|766|767|816
+What action did the irrigator perform immediately before the bipolar began coagulateing the omentum?|2|1|106|116|116|179
+What action did the clipper perform immediately after the hook began dissecting the cystic_duct?|5|1|1009|1013|1021|1036
+What action did the grasper perform immediately after retracting the liver?|16|0|1797|1798|1821|1846
+What tissue did the irrigator interact with immediately after retracting the omentum?|23|0|223|253|257|270
+What action was the grasper performing while the hook was dissecting the omentum?|26|2|9|26|5|77
+Which instrument was retracting the liver while the bipolar was coagulateing the liver?|17|2|1367|1464|1228|1574
+Which instrument was retracting the liver while the bipolar was retracting the liver?|17|2|1754|1756|1698|1756
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|0|0|1764|1765|1766|1771
+What tissue was the grasper retracting while the scissors was cuting the cystic_duct?|15|2|1117|1136|1076|1126
+Which instrument was retracting the liver while the irrigator was aspirateing the fluid?|17|2|1572|1574|1228|1574
+Which instrument was retracting the gallbladder while the scissors was cuting the cystic_duct?|17|2|1117|1136|1076|1126
+What tissue was the grasper retracting while the hook was coagulateing the omentum?|23|2|27|43|5|77
+What tissue did the grasper interact with immediately after retracting the omentum?|15|0|5|77|78|82
+What tissue did the irrigator interact with immediately after retracting the omentum?|23|0|331|344|355|355
+What tissue was the grasper retracting while the irrigator was aspirateing the fluid?|22|2|1753|1761|1698|1756
+What action did the hook perform immediately before the irrigator began retracting the omentum?|13|1|226|306|257|270
+What tissue was the hook dissecting while the irrigator was retracting the omentum?|23|2|381|389|332|388
+What tissue was the grasper retracting while the hook was dissecting the omentum?|15|2|522|535|517|535
+What action did the irrigator perform immediately after retracting the omentum?|26|0|223|253|257|270
+Which instrument was retracting the gallbladder while the hook was dissecting the cystic_duct?|17|2|689|756|572|1072
+What tissue was the grasper retracting while the hook was dissecting the omentum?|15|2|574|588|572|1072
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|517|535|536|544
+What action did the grasper perform immediately after the irrigator began aspirateing the fluid?|26|1|1772|1774|1778|1782
+What tissue was the grasper retracting while the hook was dissecting the cystic_duct?|15|2|689|756|572|1072
+What action was the grasper performing while the irrigator was aspirateing the fluid?|26|2|1733|1739|1698|1756
+What tissue was the grasper retracting while the irrigator was retracting the omentum?|22|2|1637|1638|1627|1642
+What action did the bipolar perform immediately after the irrigator began retracting the omentum?|7|1|1637|1638|1641|1662
+What action did the bipolar perform immediately before the irrigator began irrigateing the liver?|7|1|1367|1464|1410|1410
+What action did the grasper perform immediately after the bipolar began coagulateing the liver?|26|1|1600|1622|1627|1642
+What action was the grasper performing while the hook was dissecting the gallbladder?|26|2|599|685|572|1072
+What action did the grasper perform immediately after retracting the liver?|26|0|1228|1574|1627|1642
+Which instrument was retracting the gallbladder while the bipolar was dissecting the cystic_duct?|17|2|839|882|572|1072
+What tissue did the bipolar interact with immediately after coagulateing the liver?|22|0|1577|1596|1600|1622
+What action was the grasper performing while the hook was dissecting the cystic_plate?|26|2|941|991|572|1072
+What action was the grasper performing while the bipolar was coagulateing the omentum?|26|2|116|179|86|439
+What action did the hook perform immediately after dissecting the gallbladder?|13|0|406|502|522|535
+What action did the hook perform immediately before the clipper began cliping the cystic_duct?|13|1|1009|1013|1021|1036
+What action did the hook perform immediately after the irrigator began retracting the omentum?|13|1|331|344|332|388
+What action did the bipolar perform immediately after the grasper began retracting the liver?|7|1|1673|1690|1684|1695
+What action was the hook performing while the grasper was retracting the gallbladder?|13|2|1179|1181|1174|1180
+What action was the grasper performing while the irrigator was retracting the gallbladder?|26|2|311|316|86|439
+What action did the bipolar perform immediately after the irrigator began aspirateing the fluid?|7|1|1360|1409|1367|1464
+What action was the hook performing while the irrigator was retracting the omentum?|13|2|369|370|332|388
+What action was the grasper performing while the hook was dissecting the cystic_duct?|26|2|689|756|572|1072
+What tissue did the grasper interact with immediately after retracting the gallbladder?|15|0|1147|1147|1168|1177
+What tissue did the irrigator interact with immediately after irrigateing the liver?|14|0|1410|1410|1411|1412
+What tissue was the hook dissecting while the grasper was retracting the gallbladder?|15|2|1179|1181|1174|1180
+What tissue was the bipolar coagulateing while the irrigator was aspirateing the fluid?|22|2|1506|1555|1493|1525
+What tissue was the irrigator aspirateing while the bipolar was coagulateing the liver?|14|2|1533|1543|1506|1555
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|14|0|1733|1739|1753|1761
+What action did the irrigator perform immediately before the hook began dissecting the omentum?|26|1|331|344|332|388
+What tissue did the bipolar interact with immediately after coagulateing the abdominal_wall_cavity?|0|0|2086|2088|2093|2095
+What action did the irrigator perform immediately after the bipolar began coagulateing the liver?|20|1|1367|1464|1410|1410
+What tissue was the grasper retracting while the hook was dissecting the omentum?|15|2|332|388|86|439
+What action did the irrigator perform immediately after aspirateing the fluid?|26|0|1465|1478|1480|1485
+What action did the irrigator perform immediately before the bipolar began coagulateing the liver?|2|1|1576|1576|1577|1596
+What tissue was the grasper retracting while the bipolar was retracting the liver?|22|2|1754|1756|1698|1756
+What action did the grasper perform immediately before the irrigator began aspirateing the fluid?|26|1|86|439|106|116
+What tissue was the grasper retracting while the irrigator was retracting the omentum?|15|2|223|253|86|439
+Which instrument was retracting the omentum while the bipolar was coagulateing the omentum?|17|2|55|67|5|77
+What action was the grasper performing while the irrigator was aspirateing the fluid?|26|2|1444|1455|1228|1574
+What action did the grasper perform immediately after the bipolar began coagulateing the liver?|26|1|1684|1695|1698|1756
+What tissue did the grasper interact with immediately after retracting the gallbladder?|23|0|464|474|475|495
+Which instrument was retracting the gallbladder while the irrigator was retracting the omentum?|17|2|257|270|86|439
+What action was the grasper performing while the hook was dissecting the omentum?|26|2|522|535|517|535
+What tissue was the irrigator retracting while the hook was dissecting the omentum?|23|2|226|306|223|253
+What action did the grasper perform immediately before the hook began dissecting the omentum?|26|1|5|77|9|26
+What tissue was the grasper retracting while the bipolar was coagulateing the liver?|22|2|1684|1695|1673|1690
+What tissue was the hook dissecting while the grasper was retracting the gallbladder?|23|2|78|82|74|85
+What action did the irrigator perform immediately after retracting the omentum?|26|0|355|355|369|370
+Which instrument was coagulateing the liver while the irrigator was aspirateing the fluid?|3|2|1444|1455|1367|1464
+What action did the bipolar perform immediately after coagulateing the abdominal_wall_cavity?|7|0|2073|2078|2086|2088
+What tissue was the grasper retracting while the bipolar was retracting the omentum?|22|2|1781|1781|1778|1782
+What action did the hook perform immediately before the grasper began retracting the gallbladder?|13|1|74|85|78|82
+What action did the grasper perform immediately after retracting the liver?|26|0|504|507|508|511
+What tissue was the grasper retracting while the irrigator was aspirateing the fluid?|15|2|124|138|86|439
+What action was the grasper performing while the irrigator was aspirateing the fluid?|26|2|1465|1478|1228|1574
+What action did the irrigator perform immediately after aspirateing the fluid?|20|0|1711|1723|1724|1725
+What tissue did the bipolar interact with immediately after coagulateing the liver?|22|0|1641|1662|1684|1695
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|13|1|517|535|522|535
+What action did the hook perform immediately before the irrigator began aspirateing the fluid?|13|1|1242|1340|1360|1409
+What action did the irrigator perform immediately after aspirateing the fluid?|20|0|1764|1765|1766|1771
+Which instrument was aspirateing the fluid while the bipolar was retracting the liver?|21|2|1754|1756|1753|1761
+What action did the irrigator perform immediately after aspirateing the fluid?|2|0|124|138|141|147
+What action did the irrigator perform immediately after dissecting the omentum?|26|0|317|330|331|344
+Which instrument was retracting the gallbladder while the hook was dissecting the cystic_plate?|17|2|757|766|572|1072
+Which instrument was aspirateing the fluid while the bipolar was coagulateing the omentum?|21|2|116|179|106|116
+What action did the irrigator perform immediately before the bipolar began coagulateing the liver?|2|1|1506|1555|1533|1543
+What action was the grasper performing while the irrigator was irrigateing the liver?|26|2|1732|1732|1698|1756
+What tissue was the grasper retracting while the irrigator was aspirateing the fluid?|22|2|1465|1478|1228|1574
+What action was the grasper performing while the irrigator was retracting the liver?|26|2|1480|1485|1228|1574
+What action did the irrigator perform immediately after aspirateing the fluid?|2|0|141|147|152|190
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|23|0|1787|1790|1792|1792
+What action was the hook performing while the irrigator was retracting the omentum?|13|2|287|287|226|306
+What action was the grasper performing while the bipolar was retracting the omentum?|26|2|1781|1781|1778|1782
+What action did the irrigator perform immediately after retracting the gallbladder?|13|0|311|316|317|330
+What action did the grasper perform immediately after grasping the specimen_bag?|16|0|1856|1890|1896|1911
+What action did the grasper perform immediately before the bipolar began coagulateing the liver?|26|1|1673|1690|1684|1695
+What tissue did the grasper interact with immediately after retracting the omentum?|15|0|475|495|496|503
+Which instrument was retracting the gallbladder while the hook was dissecting the cystic_plate?|17|2|941|991|572|1072
+What tissue did the grasper interact with immediately after retracting the gallbladder?|15|0|1076|1126|1138|1139
+What action was the grasper performing while the hook was dissecting the cystic_duct?|26|2|1009|1013|572|1072
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|1147|1147|1168|1177
+Which instrument was coagulateing the liver while the irrigator was irrigateing the liver?|3|2|1410|1410|1367|1464
+What action did the bipolar perform immediately after the irrigator began retracting the omentum?|7|1|1491|1492|1493|1525
+What action was the grasper performing while the hook was dissecting the gallbladder?|26|2|1242|1340|1228|1574
+What action did the bipolar perform immediately after coagulateing the abdominal_wall_cavity?|7|0|2086|2088|2093|2095
+What action did the grasper perform immediately after the clipper began cliping the cystic_duct?|26|1|1063|1105|1076|1126
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|17|2|1174|1180|1168|1177
+What tissue did the hook interact with immediately after dissecting the cystic_duct?|15|0|1009|1013|1154|1167
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|0|0|1703|1708|1709|1710
+What tissue did the grasper interact with immediately after packing the gallbladder?|28|0|1847|1855|1856|1890
+What tissue did the bipolar interact with immediately after coagulateing the omentum?|10|0|116|179|839|882
+What tissue was the irrigator aspirateing while the bipolar was retracting the liver?|14|2|1754|1756|1753|1761
+What action did the irrigator perform immediately after aspirateing the fluid?|26|0|1411|1412|1414|1426
+Which instrument was retracting the gallbladder while the irrigator was retracting the omentum?|17|2|381|389|86|439
+What action did the grasper perform immediately after retracting the liver?|26|0|1673|1690|1698|1756
+What tissue did the bipolar interact with immediately after dissecting the cystic_duct?|9|0|839|882|883|896
+What action did the bipolar perform immediately after retracting the liver?|26|0|1754|1756|1781|1781
+What tissue did the hook interact with immediately after dissecting the gallbladder?|15|0|1204|1224|1242|1340
+What action did the grasper perform immediately after the scissors began cuting the cystic_artery?|26|1|1137|1140|1138|1139
+Which instrument was retracting the liver while the irrigator was aspirateing the fluid?|17|2|1703|1708|1698|1756
+What action did the hook perform immediately before the grasper began retracting the gallbladder?|13|1|1174|1180|1179|1181
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|15|2|406|502|86|439
+What action did the bipolar perform immediately after dissecting the cystic_artery?|7|0|883|896|1187|1193
+What action did the irrigator perform immediately after aspirateing the fluid?|20|0|1572|1574|1575|1575
+What action was the grasper performing while the hook was dissecting the gallbladder?|26|2|406|502|86|439
+What action was the grasper performing while the irrigator was aspirateing the fluid?|26|2|1360|1409|1228|1574
+What action did the irrigator perform immediately after the bipolar began retracting the omentum?|2|1|1699|1699|1703|1708
+What action did the grasper perform immediately after the hook began dissecting the gallbladder?|26|1|1154|1167|1168|1177
+What action did the clipper perform immediately after cliping the cystic_duct?|5|0|1021|1036|1063|1105
+What action was the irrigator performing while the hook was dissecting the omentum?|26|2|226|306|223|253
+Which instrument was retracting the gallbladder while the hook was dissecting the cystic_artery?|17|2|994|1003|572|1072
+What tissue was the grasper retracting while the bipolar was coagulateing the liver?|22|2|1555|1568|1228|1574
+What tissue did the irrigator interact with immediately after irrigateing the liver?|14|0|1575|1575|1576|1576
+What action did the irrigator perform immediately before the bipolar began retracting the liver?|2|1|1753|1761|1754|1756
+What action did the grasper perform immediately after the hook began dissecting the omentum?|26|1|74|85|78|82
+What action was the grasper performing while the hook was dissecting the omentum?|26|2|74|85|5|77
+What action did the irrigator perform immediately before the grasper began retracting the liver?|26|1|1792|1792|1797|1798
+What action did the grasper perform immediately before the bipolar began coagulateing the cystic_plate?|26|1|1187|1209|1187|1193
+What tissue was the hook dissecting while the grasper was retracting the omentum?|15|2|440|463|406|502
+Which instrument was retracting the liver while the irrigator was irrigateing the liver?|17|2|1410|1410|1228|1574
+What action did the hook perform immediately before the bipolar began dissecting the cystic_duct?|13|1|767|816|839|882
+What action did the bipolar perform immediately before the irrigator began aspirateing the fluid?|7|1|116|179|124|138
+What tissue was the bipolar coagulateing while the irrigator was aspirateing the fluid?|23|2|124|138|116|179
+What action did the hook perform immediately after dissecting the cystic_artery?|13|0|994|1003|1009|1013
+What tissue was the grasper retracting while the bipolar was dissecting the cystic_artery?|15|2|883|896|572|1072
+What tissue did the hook interact with immediately after dissecting the omentum?|15|0|332|388|406|502
+What action did the irrigator perform immediately after irrigateing the abdominal_wall_cavity?|2|0|1766|1771|1772|1774
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|545|569|570|571
+What action was the grasper performing while the bipolar was retracting the omentum?|26|2|1699|1699|1698|1756
+What action was the bipolar performing while the irrigator was aspirateing the fluid?|7|2|1444|1455|1367|1464
+What action did the irrigator perform immediately after the grasper began retracting the gallbladder?|2|1|86|439|106|116
+What action did the irrigator perform immediately before the bipolar began coagulateing the liver?|26|1|1491|1492|1493|1525
+What action did the irrigator perform immediately before the bipolar began coagulateing the liver?|2|1|1998|2027|2041|2047
+What tissue did the irrigator interact with immediately after aspirateing the fluid?|23|0|1576|1576|1598|1599
+What action did the irrigator perform immediately after the hook began dissecting the omentum?|26|1|332|388|355|355
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|1168|1177|1179|1181
+Which instrument was retracting the liver while the irrigator was retracting the liver?|17|2|1480|1485|1228|1574
+Which instrument was coagulateing the cystic_plate while the grasper was retracting the gallbladder?|3|2|1187|1209|1187|1193
+What action was the grasper performing while the irrigator was retracting the omentum?|26|2|257|270|86|439
+What action did the grasper perform immediately after the irrigator began retracting the omentum?|26|1|1792|1792|1797|1798
+What tissue did the grasper interact with immediately after retracting the liver?|22|0|1673|1690|1698|1756
+What tissue did the grasper interact with immediately after retracting the liver?|22|0|1778|1782|1797|1798
+What tissue was the grasper retracting while the irrigator was irrigateing the liver?|22|2|1724|1725|1698|1756
+What action was the grasper performing while the irrigator was aspirateing the fluid?|26|2|1753|1761|1698|1756
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|1138|1139|1147|1147
+What action was the hook performing while the grasper was retracting the omentum?|13|2|83|85|74|85
+What action did the hook perform immediately after dissecting the omentum?|13|0|539|568|574|588
+What action did the irrigator perform immediately after the bipolar began retracting the liver?|20|1|1754|1756|1762|1763
+What action did the hook perform immediately after the irrigator began retracting the omentum?|13|1|381|389|406|502
+What action was the grasper performing while the irrigator was aspirateing the fluid?|26|2|106|116|86|439
+What action did the bipolar perform immediately before the grasper began retracting the liver?|7|1|1600|1622|1627|1642
+What action did the irrigator perform immediately after irrigateing the liver?|2|0|1724|1725|1726|1731
+What action did the bipolar perform immediately after the grasper began retracting the liver?|26|1|1778|1782|1781|1781
+What action was the hook performing while the grasper was retracting the gallbladder?|13|2|78|82|74|85
+What tissue was the hook dissecting while the irrigator was retracting the omentum?|23|2|257|270|226|306
+What action did the hook perform immediately after the grasper began retracting the omentum?|13|1|536|544|539|568
+What action did the irrigator perform immediately before the hook began dissecting the gallbladder?|26|1|381|389|406|502
+What tissue did the hook interact with immediately after coagulateing the omentum?|23|0|27|43|45|48
+What tissue was the bipolar coagulateing while the irrigator was retracting the liver?|22|2|1414|1426|1367|1464
+What tissue was the bipolar coagulateing while the irrigator was aspirateing the fluid?|22|2|1444|1455|1367|1464
+What tissue did the bipolar interact with immediately after coagulateing the liver?|0|0|2041|2047|2073|2078
+What action was the grasper performing while the bipolar was coagulateing the liver?|26|2|1367|1464|1228|1574
+What action was the hook performing while the grasper was retracting the gallbladder?|13|2|0|4|0|4
+What tissue was the grasper retracting while the hook was dissecting the omentum?|15|2|226|306|86|439
+What tissue was the grasper retracting while the irrigator was aspirateing the fluid?|15|2|106|116|86|439
+What action was the grasper performing while the hook was dissecting the gallbladder?|26|2|1174|1180|1168|1177
+What action did the bipolar perform immediately after the irrigator began aspirateing the fluid?|7|1|1506|1555|1533|1543
+Which instrument was retracting the gallbladder while the bipolar was dissecting the cystic_artery?|17|2|883|896|572|1072
+What tissue was the bipolar coagulateing while the irrigator was aspirateing the fluid?|23|2|152|190|116|179
+What tissue was the hook dissecting while the grasper was retracting the omentum?|15|2|475|495|406|502
+What action did the grasper perform immediately after retracting the gallbladder?|26|0|1076|1126|1138|1139
+What tissue did the grasper interact with immediately after retracting the gallbladder?|23|0|545|569|570|571

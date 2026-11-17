@@ -1,0 +1,360 @@
+What action did the hook perform immediately after dissecting the gallbladder?|dissect|0|315|392|395|410
+What action was the grasper performing while the hook was dissecting the peritoneum?|retract|2|121|132|119|122
+What tissue was the grasper retracting while the hook was retracting the gallbladder?|gallbladder|2|691|694|690|695
+What action did the hook perform immediately after dissecting the gallbladder?|dissect|0|769|808|815|834
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|grasper|2|898|939|886|933
+What tissue did the grasper interact with immediately after grasping the gallbladder?|liver|0|995|995|996|999
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|865|876|882|884
+What tissue did the hook interact with immediately after dissecting the cystic_artery?|cystic_duct|0|463|499|503|515
+What action was the grasper performing while the hook was dissecting the peritoneum?|retract|2|72|83|53|82
+What tissue did the grasper interact with immediately after grasping the specimen_bag?|specimen_bag|0|1058|1081|1090|1094
+What action did the grasper perform immediately after the clipper began cliping the cystic_duct?|retract|1|638|659|653|654
+Which instrument was dissecting the gallbladder while the grasper was retracting the cystic_plate?|hook|2|934|940|898|939
+What action did the grasper perform immediately after the hook began dissecting the gallbladder?|retract|1|943|954|945|955
+What tissue did the grasper interact with immediately after retracting the peritoneum?|gallbladder|0|178|191|193|518
+What action did the hook perform immediately before the grasper began retracting the peritoneum?|dissect|1|134|138|159|176
+What tissue did the hook interact with immediately after dissecting the cystic_duct?|gallbladder|0|424|454|460|462
+What action did the clipper perform immediately before the grasper began retracting the gallbladder?|clip|1|638|659|653|654
+What action did the grasper perform immediately after grasping the gallbladder?|retract|0|995|995|996|999
+What tissue was the hook dissecting while the grasper was retracting the gut?|peritoneum|2|119|122|115|119
+What action did the grasper perform immediately after retracting the liver?|retract|0|1010|1010|1013|1049
+What action did the hook perform immediately before the grasper began retracting the peritoneum?|dissect|1|175|191|178|191
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|722|737|757|782
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|984|991|993|994
+What action did the grasper perform immediately after retracting the cystic_plate?|retract|0|945|955|956|956
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|grasper|2|726|756|722|737
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|9|17|53|82
+What tissue did the hook interact with immediately after dissecting the gallbladder?|gallbladder|0|300|310|315|392
+What action did the scissors perform immediately after the grasper began retracting the gallbladder?|cut|1|656|666|665|671
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|757|782|835|848
+What action did the hook perform immediately before the grasper began retracting the gallbladder?|dissect|1|838|864|865|876
+What action was the hook performing while the grasper was retracting the gut?|dissect|2|119|122|115|119
+What tissue was the hook dissecting while the grasper was retracting the cystic_plate?|gallbladder|2|945|955|943|954
+What action did the grasper perform immediately after retracting the cystic_plate?|retract|0|957|958|959|981
+What action was the grasper performing while the hook was dissecting the peritoneum?|retract|2|175|191|159|176
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|gallbladder|2|898|939|886|933
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|gallbladder|2|566|586|534|603
+What action did the hook perform immediately before the grasper began retracting the gallbladder?|dissect|1|695|722|722|737
+What action did the grasper perform immediately before the hook began dissecting the gallbladder?|retract|1|957|958|957|995
+What action was the grasper performing while the hook was dissecting the cystic_artery?|retract|2|535|562|534|603
+What action did the grasper perform immediately before the hook began dissecting the peritoneum?|retract|1|53|82|72|83
+What tissue did the grasper interact with immediately after retracting the cystic_plate?|gallbladder|0|934|940|941|944
+What tissue did the grasper interact with immediately after grasping the cystic_duct?|gallbladder|0|604|611|612|614
+What tissue was the hook dissecting while the grasper was retracting the gallbladder?|gallbladder|2|722|737|695|722
+What action did the grasper perform immediately before the hook began dissecting the gallbladder?|retract|1|886|933|898|939
+What action did the hook perform immediately before the grasper began grasping the gallbladder?|dissect|1|503|515|520|520
+What action did the clipper perform immediately after the grasper began retracting the gallbladder?|clip|1|629|650|638|659
+What action did the hook perform immediately after dissecting the gallbladder?|dissect|0|193|292|300|310
+What action did the grasper perform immediately before the hook began dissecting the gallbladder?|retract|1|757|782|769|808
+Which instrument was cliping the cystic_duct while the grasper was retracting the gallbladder?|clipper|2|656|666|638|659
+What action did the grasper perform immediately after retracting the gallbladder?|grasp|0|523|530|531|533
+What action was the grasper performing while the hook was dissecting the cystic_duct?|retract|2|503|515|193|518
+What action did the grasper perform immediately after retracting the liver?|grasp|0|1013|1049|1053|1054
+What action did the hook perform immediately after dissecting the cystic_duct?|dissect|0|395|410|424|454
+What action did the grasper perform immediately before the hook began dissecting the gallbladder?|retract|1|835|848|838|864
+What action was the hook performing while the grasper was retracting the peritoneum?|dissect|2|178|191|175|191
+What action was the grasper performing while the hook was dissecting the gallbladder?|retract|2|679|690|673|679
+What tissue did the grasper interact with immediately after retracting the peritoneum?|gallbladder|0|125|131|132|158
+What tissue did the hook interact with immediately after dissecting the gallbladder?|gallbladder|0|943|954|957|995
+What tissue did the grasper interact with immediately after retracting the gallbladder?|peritoneum|0|132|158|159|176
+What action did the grasper perform immediately before the hook began retracting the gallbladder?|retract|1|690|695|691|694
+Which instrument was retracting the gallbladder while the hook was retracting the gallbladder?|grasper|2|691|694|690|695
+What action did the hook perform immediately after the grasper began retracting the cystic_plate?|dissect|1|957|958|957|995
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|835|848|865|876
+What action did the grasper perform immediately after retracting the peritoneum?|retract|0|92|114|119|122
+What tissue did the hook interact with immediately after dissecting the peritoneum?|peritoneum|0|110|113|115|119
+What tissue did the grasper interact with immediately after retracting the gallbladder?|peritoneum|0|53|82|84|88
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|521|521|523|530
+What action did the hook perform immediately before the grasper began retracting the gallbladder?|dissect|1|957|995|959|981
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|653|654|656|666
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|dissect|1|673|679|679|690
+Which instrument was dissecting the gallbladder while the grasper was retracting the gallbladder?|hook|2|690|695|679|690
+What action did the hook perform immediately after dissecting the gallbladder?|dissect|0|838|864|898|939
+What tissue did the hook interact with immediately after dissecting the gallbladder?|gallbladder|0|838|864|898|939
+What tissue did the grasper interact with immediately after retracting the liver?|liver|0|1010|1010|1013|1049
+What tissue did the grasper interact with immediately after retracting the gut?|gallbladder|0|7|7|9|17
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|656|666|673|679
+What tissue was the grasper retracting while the clipper was cliping the cystic_duct?|gallbladder|2|638|659|629|650
+What tissue did the grasper interact with immediately after retracting the gallbladder?|cystic_plate|0|941|944|945|955
+What action did the grasper perform immediately after retracting the gallbladder?|dissect|0|619|619|624|628
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|757|782|835|848
+Which instrument was retracting the gallbladder while the hook was dissecting the cystic_artery?|grasper|2|463|499|193|518
+What tissue did the hook interact with immediately after dissecting the peritoneum?|peritoneum|0|87|89|97|107
+What tissue did the hook interact with immediately after dissecting the peritoneum?|peritoneum|0|115|119|121|132
+What tissue did the grasper interact with immediately after dissecting the gallbladder?|gallbladder|0|624|628|629|650
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|521|521|523|530
+What tissue did the hook interact with immediately after dissecting the gallbladder?|gallbladder|0|566|586|679|690
+What action did the hook perform immediately after dissecting the peritoneum?|dissect|0|115|119|121|132
+What action did the grasper perform immediately before the hook began dissecting the gallbladder?|retract|1|722|737|726|756
+What tissue did the hook interact with immediately after dissecting the gallbladder?|gallbladder|0|695|722|726|756
+What action did the grasper perform immediately after the hook began dissecting the peritoneum?|retract|1|87|89|92|114
+What action did the grasper perform immediately after grasping the gallbladder?|retract|0|531|533|534|603
+What action did the grasper perform immediately after retracting the gallbladder?|grasp|0|534|603|604|611
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|dissect|1|53|82|72|83
+What action was the grasper performing while the clipper was cliping the cystic_duct?|retract|2|638|659|629|650
+What tissue was the hook dissecting while the grasper was retracting the gallbladder?|gallbladder|2|959|981|957|995
+What action did the grasper perform immediately after grasping the specimen_bag?|grasp|0|1058|1081|1090|1094
+What action was the grasper performing while the hook was dissecting the gallbladder?|retract|2|566|586|534|603
+What action did the hook perform immediately after dissecting the peritoneum?|dissect|0|110|113|115|119
+What action was the grasper performing while the hook was dissecting the cystic_duct?|retract|2|424|454|193|518
+What action was the hook performing while the grasper was retracting the gallbladder?|dissect|2|959|981|957|995
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|gallbladder|2|460|462|193|518
+Which instrument was retracting the peritoneum while the hook was dissecting the peritoneum?|grasper|2|175|191|159|176
+What action did the grasper perform immediately after grasping the gallbladder?|retract|0|520|520|521|521
+What tissue was the grasper retracting while the hook was dissecting the peritoneum?|gallbladder|2|72|83|53|82
+What action did the hook perform immediately before the grasper began retracting the gallbladder?|dissect|1|679|690|690|695
+What action did the grasper perform immediately after the hook began dissecting the gallbladder?|grasp|1|566|586|604|611
+What action was the hook performing while the grasper was retracting the gallbladder?|dissect|2|132|158|121|132
+What tissue did the hook interact with immediately after dissecting the peritoneum?|peritoneum|0|97|107|110|113
+What tissue did the hook interact with immediately after retracting the gallbladder?|gallbladder|0|691|694|695|722
+What action did the grasper perform immediately after retracting the gallbladder?|grasp|0|993|994|995|995
+Which instrument was cliping the cystic_duct while the grasper was retracting the gallbladder?|clipper|2|653|654|638|659
+What action did the hook perform immediately after the grasper began retracting the gut?|dissect|1|119|122|121|132
+What action did the grasper perform immediately after retracting the gut?|retract|0|119|122|125|131
+Which instrument was retracting the gallbladder while the hook was dissecting the peritoneum?|grasper|2|72|83|53|82
+What action did the hook perform immediately before the grasper began retracting the peritoneum?|dissect|1|121|132|125|131
+What action was the grasper performing while the hook was dissecting the gallbladder?|retract|2|460|462|193|518
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|959|981|984|991
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|690|695|722|737
+What tissue was the grasper retracting while the hook was dissecting the peritoneum?|peritoneum|2|87|89|84|88
+What action did the grasper perform immediately after grasping the specimen_bag?|grasp|0|1053|1054|1058|1081
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|gallbladder|2|943|954|941|944
+What action did the hook perform immediately after dissecting the gallbladder?|dissect|0|300|310|315|392
+What action did the hook perform immediately before the grasper began retracting the gut?|dissect|1|115|119|119|122
+What action did the hook perform immediately after dissecting the peritoneum?|dissect|0|163|168|170|173
+What tissue did the hook interact with immediately after dissecting the peritoneum?|peritoneum|0|170|173|175|191
+What tissue did the hook interact with immediately after dissecting the peritoneum?|gallbladder|0|175|191|193|292
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|653|654|656|666
+What action did the grasper perform immediately after the hook began dissecting the gallbladder?|retract|1|898|939|934|940
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|dissect|1|835|848|838|864
+What action was the clipper performing while the grasper was retracting the gallbladder?|clip|2|653|654|638|659
+What tissue was the hook dissecting while the grasper was retracting the peritoneum?|peritoneum|2|125|131|121|132
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|984|991|993|994
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|grasper|2|838|864|835|848
+Which instrument was dissecting the gallbladder while the grasper was retracting the gallbladder?|hook|2|959|981|957|995
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|grasper|2|769|808|757|782
+What action was the grasper performing while the hook was dissecting the peritoneum?|retract|2|170|173|159|176
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|882|884|886|933
+What action did the grasper perform immediately after retracting the gut?|retract|0|1|3|7|7
+What action did the grasper perform immediately after the hook began dissecting the cystic_duct?|grasp|1|503|515|520|520
+What tissue did the grasper interact with immediately after retracting the peritoneum?|gut|0|92|114|119|122
+What tissue did the hook interact with immediately after dissecting the cystic_duct?|cystic_artery|0|503|515|535|562
+What tissue was the hook dissecting while the grasper was retracting the gallbladder?|gallbladder|2|193|518|193|292
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|941|944|945|955
+What action did the hook perform immediately after dissecting the peritoneum?|dissect|0|72|83|87|89
+What action did the grasper perform immediately after the hook began dissecting the gallbladder?|retract|1|838|864|865|876
+What action did the grasper perform immediately before the clipper began cliping the cystic_duct?|retract|1|629|650|638|659
+What tissue did the hook interact with immediately after dissecting the gallbladder?|cystic_artery|0|460|462|463|499
+What action was the grasper performing while the hook was dissecting the gallbladder?|retract|2|315|392|193|518
+What action was the hook performing while the grasper was retracting the cystic_plate?|dissect|2|957|958|957|995
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|835|848|865|876
+What action did the hook perform immediately after dissecting the gallbladder?|dissect|0|695|722|726|756
+Which instrument was retracting the gut while the hook was dissecting the peritoneum?|grasper|2|121|132|119|122
+What action did the grasper perform immediately after retracting the cystic_plate?|retract|0|934|940|941|944
+What action did the grasper perform immediately after the hook began dissecting the peritoneum?|retract|1|115|119|119|122
+What tissue was the grasper retracting while the hook was dissecting the cystic_duct?|gallbladder|2|503|515|193|518
+What tissue did the hook interact with immediately after dissecting the gallbladder?|gallbladder|0|898|939|943|954
+What action did the hook perform immediately after the grasper began retracting the peritoneum?|dissect|1|92|114|97|107
+What action did the grasper perform immediately after the hook began dissecting the gallbladder?|retract|1|957|995|959|981
+What tissue did the grasper interact with immediately after retracting the peritoneum?|peritoneum|0|159|176|178|191
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|673|679|690|695
+What action was the hook performing while the grasper was retracting the peritoneum?|dissect|2|125|131|121|132
+What action did the hook perform immediately after dissecting the peritoneum?|dissect|0|97|107|110|113
+What action did the hook perform immediately after dissecting the peritoneum?|dissect|0|87|89|97|107
+What action did the hook perform immediately before the grasper began retracting the peritoneum?|dissect|1|87|89|92|114
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|grasper|2|943|954|941|944
+What action was the grasper performing while the hook was dissecting the peritoneum?|retract|2|163|168|159|176
+What action was the grasper performing while the hook was dissecting the peritoneum?|retract|2|97|107|92|114
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|9|17|53|82
+What action was the grasper performing while the hook was dissecting the gallbladder?|retract|2|193|292|193|518
+What action was the hook performing while the grasper was retracting the gallbladder?|dissect|2|984|991|957|995
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|629|650|653|654
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|grasper|2|460|462|193|518
+Which instrument was dissecting the peritoneum while the grasper was retracting the peritoneum?|hook|2|178|191|175|191
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|grasper|2|566|586|534|603
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|690|695|722|737
+What action did the grasper perform immediately before the hook began dissecting the peritoneum?|retract|1|92|114|97|107
+What tissue did the grasper interact with immediately after retracting the peritoneum?|peritoneum|0|84|88|92|114
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|523|530|531|533
+What tissue was the grasper retracting while the hook was dissecting the cystic_artery?|gallbladder|2|535|562|534|603
+What action did the hook perform immediately after dissecting the gallbladder?|dissect|0|566|586|679|690
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|gallbladder|2|300|310|193|518
+What tissue was the grasper retracting while the hook was dissecting the cystic_duct?|gallbladder|2|424|454|193|518
+What action did the hook perform immediately after dissecting the peritoneum?|dissect|0|121|132|134|138
+What tissue was the hook dissecting while the grasper was retracting the gallbladder?|peritoneum|2|132|158|121|132
+What action did the hook perform immediately after dissecting the gallbladder?|dissect|0|815|834|838|864
+What action did the grasper perform immediately before the hook began dissecting the gallbladder?|retract|1|673|679|679|690
+What action did the grasper perform immediately after the hook began dissecting the gallbladder?|retract|1|679|690|690|695
+What tissue was the hook dissecting while the grasper was retracting the gallbladder?|gallbladder|2|984|991|957|995
+What action did the hook perform immediately before the grasper began retracting the peritoneum?|dissect|1|72|83|84|88
+Which instrument was retracting the peritoneum while the hook was dissecting the peritoneum?|grasper|2|170|173|159|176
+What tissue was the grasper retracting while the hook was dissecting the cystic_artery?|gallbladder|2|463|499|193|518
+What action did the hook perform immediately after dissecting the gallbladder?|dissect|0|726|756|769|808
+What action did the hook perform immediately after dissecting the gallbladder?|retract|0|679|690|691|694
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|dissect|1|534|603|535|562
+What action did the grasper perform immediately before the hook began dissecting the peritoneum?|retract|1|84|88|87|89
+What action did the hook perform immediately before the grasper began retracting the cystic_plate?|dissect|1|943|954|945|955
+What tissue did the hook interact with immediately after dissecting the gallbladder?|gallbladder|0|726|756|769|808
+What tissue was the clipper cliping while the grasper was retracting the gallbladder?|cystic_duct|2|656|666|638|659
+Which instrument was dissecting the peritoneum while the grasper was retracting the peritoneum?|hook|2|125|131|121|132
+Which instrument was retracting the gallbladder while the hook was dissecting the cystic_duct?|grasper|2|424|454|193|518
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|cystic_plate|2|957|995|957|958
+What tissue was the hook dissecting while the grasper was retracting the cystic_plate?|gallbladder|2|934|940|898|939
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|gallbladder|2|193|292|193|518
+What action did the grasper perform immediately after the hook began dissecting the gallbladder?|retract|1|726|756|757|782
+Which instrument was dissecting the peritoneum while the grasper was retracting the gallbladder?|hook|2|132|158|121|132
+What tissue was the hook dissecting while the grasper was retracting the cystic_plate?|gallbladder|2|957|958|957|995
+What action did the hook perform immediately after dissecting the cystic_duct?|dissect|0|424|454|460|462
+Which instrument was retracting the peritoneum while the hook was dissecting the peritoneum?|grasper|2|87|89|84|88
+What action did the grasper perform immediately after the hook began dissecting the peritoneum?|retract|1|121|132|125|131
+What action did the grasper perform immediately after retracting the peritoneum?|retract|0|125|131|132|158
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|193|518|520|520
+What tissue did the grasper interact with immediately after retracting the gallbladder?|cystic_plate|0|886|933|934|940
+What tissue was the grasper retracting while the scissors was cuting the cystic_duct?|gallbladder|2|665|671|656|666
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|619|619|624|628
+What tissue was the hook dissecting while the grasper was retracting the peritoneum?|peritoneum|2|178|191|175|191
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|956|956|957|958
+Which instrument was retracting the gallbladder while the scissors was cuting the cystic_duct?|grasper|2|665|671|656|666
+Which instrument was retracting the cystic_plate while the hook was dissecting the gallbladder?|grasper|2|957|995|957|958
+What tissue did the grasper interact with immediately after retracting the gut?|peritoneum|0|119|122|125|131
+What tissue did the grasper interact with immediately after retracting the gallbladder?|cystic_plate|0|956|956|957|958
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|grasper|2|679|690|673|679
+Which instrument was retracting the gallbladder while the hook was dissecting the cystic_artery?|grasper|2|535|562|534|603
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|722|737|757|782
+What action was the grasper performing while the hook was dissecting the peritoneum?|retract|2|134|138|132|158
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|grasper|2|315|392|193|518
+What action did the grasper perform immediately after retracting the peritoneum?|retract|0|159|176|178|191
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|dissect|1|757|782|769|808
+What action did the grasper perform immediately before the hook began dissecting the peritoneum?|retract|1|159|176|163|168
+What action was the clipper performing while the grasper was retracting the gallbladder?|clip|2|656|666|638|659
+What tissue was the hook dissecting while the grasper was retracting the gallbladder?|gallbladder|2|690|695|679|690
+What tissue was the grasper retracting while the hook was dissecting the peritoneum?|peritoneum|2|97|107|92|114
+What tissue did the grasper interact with immediately after retracting the cystic_plate?|gallbladder|0|957|958|959|981
+What action did the hook perform immediately before the grasper began grasping the cystic_duct?|dissect|1|566|586|604|611
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|612|614|619|619
+Which instrument was dissecting the gallbladder while the grasper was retracting the gallbladder?|hook|2|993|994|957|995
+Which instrument was retracting the peritoneum while the hook was dissecting the peritoneum?|grasper|2|163|168|159|176
+What tissue did the hook interact with immediately after dissecting the peritoneum?|peritoneum|0|134|138|163|168
+What action was the grasper performing while the hook was dissecting the gallbladder?|retract|2|957|995|957|958
+Which instrument was retracting the peritoneum while the hook was dissecting the peritoneum?|grasper|2|97|107|92|114
+What action was the hook performing while the grasper was retracting the gallbladder?|dissect|2|690|695|679|690
+What tissue did the hook interact with immediately after dissecting the gallbladder?|gallbladder|0|815|834|838|864
+What tissue was the grasper retracting while the hook was dissecting the peritoneum?|peritoneum|2|170|173|159|176
+What action was the grasper performing while the hook was dissecting the gallbladder?|retract|2|898|939|886|933
+What tissue did the hook interact with immediately after dissecting the peritoneum?|peritoneum|0|72|83|87|89
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|gallbladder|2|315|392|193|518
+What action was the hook performing while the grasper was retracting the gallbladder?|dissect|2|993|994|957|995
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|656|666|673|679
+What action did the grasper perform immediately after the hook began dissecting the peritoneum?|retract|1|175|191|178|191
+What action was the grasper performing while the hook was dissecting the gallbladder?|retract|2|300|310|193|518
+What action was the grasper performing while the scissors was cuting the cystic_duct?|retract|2|665|671|656|666
+What action did the grasper perform immediately after the hook began dissecting the gallbladder?|retract|1|695|722|722|737
+What action did the grasper perform immediately before the hook began dissecting the peritoneum?|retract|1|132|158|134|138
+What action did the hook perform immediately after dissecting the cystic_artery?|dissect|0|463|499|503|515
+Which instrument was dissecting the gallbladder while the grasper was retracting the cystic_plate?|hook|2|945|955|943|954
+What action was the grasper performing while the hook was dissecting the gallbladder?|retract|2|943|954|941|944
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|673|679|690|695
+What tissue did the hook interact with immediately after dissecting the cystic_artery?|gallbladder|0|535|562|566|586
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|gallbladder|2|695|722|690|695
+What tissue was the grasper retracting while the hook was dissecting the peritoneum?|peritoneum|2|175|191|159|176
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|dissect|1|886|933|898|939
+What tissue was the grasper retracting while the hook was dissecting the peritoneum?|peritoneum|2|163|168|159|176
+What action did the grasper perform immediately after retracting the gut?|retract|0|7|7|9|17
+What action did the grasper perform immediately before the hook began dissecting the gallbladder?|retract|1|193|518|193|292
+What action did the hook perform immediately after dissecting the gallbladder?|dissect|0|943|954|957|995
+Which instrument was dissecting the gallbladder while the grasper was grasping the gallbladder?|hook|2|995|995|957|995
+What action did the grasper perform immediately after retracting the gallbladder?|grasp|0|193|518|520|520
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|grasper|2|193|292|193|518
+What action did the grasper perform immediately after the scissors began cuting the cystic_duct?|retract|1|665|671|673|679
+What action was the hook performing while the grasper was retracting the gallbladder?|dissect|2|193|518|193|292
+What action did the hook perform immediately before the grasper began retracting the gallbladder?|dissect|1|726|756|757|782
+What action did the hook perform immediately after dissecting the peritoneum?|dissect|0|170|173|175|191
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|886|933|934|940
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|132|158|159|176
+What tissue did the grasper interact with immediately after retracting the liver?|specimen_bag|0|1013|1049|1053|1054
+What action was the grasper performing while the hook was dissecting the gallbladder?|retract|2|769|808|757|782
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|retract|1|690|695|691|694
+What action was the grasper performing while the hook was dissecting the cystic_duct?|retract|2|395|410|193|518
+What action did the hook perform immediately after retracting the gallbladder?|dissect|0|691|694|695|722
+What tissue was the hook dissecting while the grasper was grasping the gallbladder?|gallbladder|2|995|995|957|995
+What action did the grasper perform immediately after the hook began dissecting the gallbladder?|retract|1|815|834|835|848
+What tissue did the hook interact with immediately after dissecting the peritoneum?|peritoneum|0|163|168|170|173
+Which instrument was retracting the gallbladder while the hook was dissecting the cystic_duct?|grasper|2|395|410|193|518
+What action did the hook perform immediately after dissecting the gallbladder?|dissect|0|898|939|943|954
+What action did the grasper perform immediately after retracting the liver?|retract|0|996|999|1010|1010
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|dissect|1|722|737|726|756
+What action was the grasper performing while the hook was dissecting the gallbladder?|retract|2|726|756|722|737
+What tissue was the grasper retracting while the hook was dissecting the cystic_duct?|gallbladder|2|395|410|193|518
+What action did the grasper perform immediately before the hook began dissecting the peritoneum?|retract|1|119|122|121|132
+What action did the hook perform immediately after dissecting the peritoneum?|dissect|0|175|191|193|292
+What action was the grasper performing while the hook was dissecting the cystic_artery?|retract|2|463|499|193|518
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|865|876|882|884
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|dissect|1|193|518|193|292
+What action did the grasper perform immediately after the hook began dissecting the peritoneum?|retract|1|134|138|159|176
+What action did the grasper perform immediately after retracting the peritoneum?|retract|0|178|191|193|518
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|gallbladder|2|838|864|835|848
+What tissue did the grasper interact with immediately after grasping the gallbladder?|gallbladder|0|520|520|521|521
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|993|994|995|995
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|dissect|1|941|944|943|954
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|53|82|84|88
+What action did the grasper perform immediately before the hook began dissecting the cystic_artery?|retract|1|534|603|535|562
+What tissue did the grasper interact with immediately after retracting the gallbladder?|cystic_duct|0|534|603|604|611
+What action was the grasper performing while the hook was dissecting the peritoneum?|retract|2|110|113|92|114
+Which instrument was retracting the gallbladder while the hook was dissecting the peritoneum?|grasper|2|134|138|132|158
+Which instrument was dissecting the gallbladder while the grasper was retracting the cystic_plate?|hook|2|957|958|957|995
+What action was the hook performing while the grasper was retracting the gallbladder?|dissect|2|722|737|695|722
+What tissue did the grasper interact with immediately after retracting the cystic_plate?|gallbladder|0|945|955|956|956
+What tissue was the grasper retracting while the hook was dissecting the peritoneum?|gallbladder|2|134|138|132|158
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|gallbladder|2|679|690|673|679
+What action did the grasper perform immediately before the scissors began cuting the cystic_duct?|retract|1|656|666|665|671
+What action did the scissors perform immediately before the grasper began retracting the gallbladder?|cut|1|665|671|673|679
+What tissue did the grasper interact with immediately after grasping the gallbladder?|gallbladder|0|531|533|534|603
+What action was the hook performing while the grasper was retracting the cystic_plate?|dissect|2|945|955|943|954
+What action did the hook perform immediately before the grasper began retracting the cystic_plate?|dissect|1|898|939|934|940
+What action did the hook perform immediately after dissecting the peritoneum?|dissect|0|134|138|163|168
+What action did the grasper perform immediately after dissecting the gallbladder?|retract|0|624|628|629|650
+What tissue was the grasper retracting while the hook was dissecting the peritoneum?|peritoneum|2|110|113|92|114
+What action did the hook perform immediately after the grasper began retracting the peritoneum?|dissect|1|84|88|87|89
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|882|884|886|933
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|959|981|984|991
+What action did the grasper perform immediately after the hook began dissecting the peritoneum?|retract|1|72|83|84|88
+Which instrument was dissecting the gallbladder while the grasper was retracting the gallbladder?|hook|2|193|518|193|292
+What tissue did the grasper interact with immediately after retracting the gut?|gut|0|1|3|7|7
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|gallbladder|2|726|756|722|737
+What action did the hook perform immediately after dissecting the cystic_duct?|dissect|0|503|515|535|562
+Which instrument was retracting the peritoneum while the hook was dissecting the peritoneum?|grasper|2|110|113|92|114
+Which instrument was dissecting the peritoneum while the grasper was retracting the gut?|hook|2|119|122|115|119
+What tissue did the hook interact with immediately after dissecting the gallbladder?|gallbladder|0|769|808|815|834
+Which instrument was retracting the gallbladder while the hook was dissecting the cystic_duct?|grasper|2|503|515|193|518
+What tissue did the grasper interact with immediately after retracting the liver?|liver|0|996|999|1010|1010
+What action did the grasper perform immediately after retracting the peritoneum?|retract|0|84|88|92|114
+What action did the grasper perform immediately before the hook began dissecting the gallbladder?|retract|1|941|944|943|954
+What tissue did the hook interact with immediately after dissecting the gallbladder?|gallbladder|0|193|292|300|310
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|grasper|2|695|722|690|695
+What action did the grasper perform immediately after retracting the gallbladder?|retract|0|629|650|653|654
+What action did the hook perform immediately after dissecting the cystic_artery?|dissect|0|535|562|566|586
+What action was the hook performing while the grasper was grasping the gallbladder?|dissect|2|995|995|957|995
+What tissue did the hook interact with immediately after dissecting the gallbladder?|cystic_duct|0|315|392|395|410
+What action was the grasper performing while the hook was retracting the gallbladder?|retract|2|691|694|690|695
+What tissue was the grasper retracting while the hook was dissecting the peritoneum?|gut|2|121|132|119|122
+What tissue did the hook interact with immediately after dissecting the peritoneum?|peritoneum|0|121|132|134|138
+What tissue did the grasper interact with immediately after grasping the specimen_bag?|specimen_bag|0|1053|1054|1058|1081
+Which instrument was retracting the gallbladder while the clipper was cliping the cystic_duct?|grasper|2|638|659|629|650
+What action did the hook perform immediately after the grasper began retracting the gallbladder?|dissect|1|132|158|134|138
+What tissue was the clipper cliping while the grasper was retracting the gallbladder?|cystic_duct|2|653|654|638|659
+What action did the grasper perform immediately after grasping the cystic_duct?|retract|0|604|611|612|614
+Which instrument was dissecting the gallbladder while the grasper was retracting the gallbladder?|hook|2|722|737|695|722
+What action did the hook perform immediately after the grasper began retracting the peritoneum?|dissect|1|159|176|163|168
+What action was the grasper performing while the hook was dissecting the gallbladder?|retract|2|838|864|835|848
+What action was the grasper performing while the hook was dissecting the peritoneum?|retract|2|87|89|84|88
+What tissue was the hook dissecting while the grasper was retracting the gallbladder?|gallbladder|2|993|994|957|995
+Which instrument was retracting the gallbladder while the hook was dissecting the gallbladder?|grasper|2|300|310|193|518
+What action did the hook perform immediately before the grasper began retracting the gallbladder?|dissect|1|815|834|835|848
+What tissue did the grasper interact with immediately after retracting the gallbladder?|gallbladder|0|612|614|619|619
+What tissue did the hook interact with immediately after dissecting the gallbladder?|gallbladder|0|679|690|691|694
+What action was the hook performing while the grasper was retracting the cystic_plate?|dissect|2|934|940|898|939
+What tissue did the hook interact with immediately after dissecting the cystic_duct?|cystic_duct|0|395|410|424|454
+What tissue was the grasper retracting while the hook was dissecting the gallbladder?|gallbladder|2|769|808|757|782
+What action did the hook perform immediately after dissecting the gallbladder?|dissect|0|460|462|463|499
+What action was the grasper performing while the hook was dissecting the gallbladder?|retract|2|695|722|690|695
+Which instrument was dissecting the gallbladder while the grasper was retracting the gallbladder?|hook|2|984|991|957|995
